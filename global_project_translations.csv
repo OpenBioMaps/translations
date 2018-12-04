@@ -88,7 +88,7 @@
 "global","ro","str_arbitrary","arbitrar"
 "global","en","str_array","array"
 "global","hu","str_array","tömb"
-"global","ro","str_array",
+"global","ro","str_array","array"
 "global","en","str_as_compact_table","compact table"
 "global","hu","str_as_compact_table","kompakt táblázat"
 "global","ro","str_as_compact_table","tabel compact"
@@ -214,7 +214,7 @@
 "global","ro","str_constant_name",
 "global","en","str_constraints","constraints"
 "global","hu","str_constraints","megszorítások"
-"global","ro","str_constraints",
+"global","ro","str_constraints","restricții"
 "global","en","str_contact","contact"
 "global","hu","str_contact","kapcsolat"
 "global","ro","str_contact","contact"
@@ -349,7 +349,7 @@
 "global","ro","str_dear","stimate"
 "global","en","str_decimal_number","decimal number"
 "global","hu","str_decimal_number","tizedes érték"
-"global","ro","str_decimal_number",
+"global","ro","str_decimal_number","număr zecimal"
 "global","en","str_decline","decline"
 "global","hu","str_decline","elutasítom"
 "global","ro","str_decline","respinge"
@@ -361,7 +361,7 @@
 "global","ro","str_default_lang","limba prestabilită"
 "global","en","str_default_value","default value"
 "global","hu","str_default_value","alapértelmezett érték"
-"global","ro","str_default_value",
+"global","ro","str_default_value","valoare implicită"
 "global","en","str_default_values","default values"
 "global","hu","str_default_values","alap értékek"
 "global","ro","str_default_values","valori predefinite"
@@ -658,7 +658,7 @@
 "global","ro","str_institute","instituție"
 "global","en","str_integer","integer"
 "global","hu","str_integer","egész szám"
-"global","ro","str_integer",
+"global","ro","str_integer","număr întreg"
 "global","en","str_intersects","intersects"
 "global","hu","str_intersects","metszi"
 "global","ro","str_intersects","intersectează"
@@ -817,7 +817,7 @@
 "global","hu","str_longitude","hosszúság (X)"
 "global","en","str_long_text","long text"
 "global","hu","str_long_text","hosszú szöveg"
-,"ro","str_long_text",
+"global","ro","str_long_text",""text lung"
 "global","en","str_lostpasswd","lost password"
 "global","hu","str_lostpasswd","elfelejtett jelszó"
 "global","ro","str_lostpasswd","parolă uitată"
@@ -949,6 +949,7 @@
 "global","ro","str_newactivation","Introduceți adresa de email cu care v-ați înregistrat și vom trimite un nou mesaj de activare."
 "global","en","str_new_column","new column"
 "global","hu","str_new_column","új oszlop"
+"global","ro","str_new_column","coloană nouă"
 "global","en","str_new_filter","New filter"
 "global","hu","str_new_filter","Új szűrés"
 "global","ro","str_new_filter","filtru nou"
@@ -1379,6 +1380,7 @@
 "global","ro","str_set_coordinates_from","Do I set geometry based on image information"
 "global","en","str_set_it","set_it"
 "global","hu","str_set_it","állítsd be"
+"global","ro","str_set_it","setează"
 "global","en","str_set_max","maximum"
 "global","hu","str_set_max","maximum"
 "global","en","str_set_password","Please change your password"
