@@ -996,8 +996,8 @@
 "global","en","str_no_thanks","No, thanks","upload_dynamic_js.php"
 "global","hu","str_no_thanks","Nem, köszönöm","upload_dynamic_js.php"
 "global","ro","str_no_thanks","No, thanks","upload_dynamic_js.php"
-"global","en","str_nothing_happend","nothing happend","update_taxonc.php"
-"global","hu","str_nothing_happend","nem történt semmi","update_taxonc.php"
+"global","en","str_nothing_happend","nothing happend with","update_taxonc.php"
+"global","hu","str_nothing_happend","semmi sem változott","update_taxonc.php"
 "global","ro","str_nothing_happend","nu s-a întâmplat nimic","update_taxonc.php"
 "global","en","str_not_valid","not validated yet",
 "global","hu","str_not_valid","nincs validálva",
