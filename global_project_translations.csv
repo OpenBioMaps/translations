@@ -1947,3 +1947,6 @@
 "global","en","str_zero_access_explanation","No access of data - such like non-logined users","project_admin.php"
 "global","hu","str_zero_access_explanation","Nincs adathozzáférés - mint a nem bejelentkezett felhasználóknak","project_admin.php"
 "global","ro","str_zero_access_explanation","Fără acces la date – ca utilizatorii nelogați","project_admin.php"
+"global","en","str_search_filter","search filter","box_filter.php"
+"global","hu","str_search_filter","kereső szűrő","box_filter.php"
+"global","en","str_search_filter","search filter","box_filter.php"
