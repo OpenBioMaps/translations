@@ -783,7 +783,7 @@
 "global","hu","str_load","betölt","interface.php,profile.php,project_admin.php"
 "global","ro","str_load","încarcă","interface.php,profile.php,project_admin.php"
 "global","en","str_load_imports","interrupted imports","interface.php,profile.php,project_admin.php"
-"global","hu","str_load_imports","felfüggesztett importok","interface.php,profile.php,project_admin.php"
+"global","hu","str_load_imports","felfüggesztett adatfeltöltések","interface.php,profile.php,project_admin.php"
 "global","ro","str_load_imports","încărcări întrerupte","interface.php,profile.php,project_admin.php"
 "global","en","str_load_orcid_profile","Load ORCID profile data","profile.php"
 "global","hu","str_load_orcid_profile","ORCID profil adatok betöltése","profile.php"
