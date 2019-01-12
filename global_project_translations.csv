@@ -435,7 +435,7 @@
 "global","hu","str_download_specieslist","összefoglaló letöltése","results_builder.php"
 "global","ro","str_download_specieslist","download summary","results_builder.php"
 "global","en","str_drop_profile","drop profile","main.js.php,profile.php"
-"global","hu","str_drop_profile","profil eldobása","main.js.php,profile.php"
+"global","hu","str_drop_profile","felhasználói fiók megszűntetése","main.js.php,profile.php"
 "global","ro","str_drop_profile","ștergrea contului de utilizator","main.js.php,profile.php"
 "global","en","str_drop_profile_confirm_text","Do you really want to delete your OpenBioMaps profile from this server???<br>You can't log in and use private services on this server till you will not receive an other invitation!","main.js.php"
 "global","hu","str_drop_profile_confirm_text","Tényleg le akarod törölni az OpenBioMaps fiókodat erről a szerverről???<br>Nem fogsz tudni bejelentkezni és használni a privát szolgáltatásokat ezen a szerveren amíg valaki újra nem küld meghívót!","main.js.php"
