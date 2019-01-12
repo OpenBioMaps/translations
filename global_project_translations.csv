@@ -1956,3 +1956,6 @@
 "global","en","str_all_selected","all selected","upload.php"
 "global","hu","str_all_selected","mind kiválasztva","upload.php"
 "global","ro","str_all_selected","all selected","upload.php"
+"global","en","str_display_data","display data","grid_view.php"
+"global","hu","str_display_data","adatok ábrázolása","grid_view.php"
+"global","ro","str_display_data","display data","grid_view.php"
