@@ -1929,3 +1929,6 @@
 "global","en","str_non_obligatory_settings","non obligatory settings","profile.php"
 "global","hu","str_non_obligatory_settings","nem kötelező beállítások","profile.php"
 "global","ro","str_non_obligatory_settings","non obligatory settings","profile.php"
+"global","en","str_recent_uploads","Recent uploads","mainpage_content1.php"
+"global","hu","str_recent_uploads","Legutóbbi feltöltések","mainpage_content1.php"
+"global","ro","str_recent_uploads","Recent uploads","mainpage_content1.php"
