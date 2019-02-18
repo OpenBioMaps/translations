@@ -1932,3 +1932,6 @@
 "global","en","str_recent_uploads","Recent uploads","mainpage_content1.php"
 "global","hu","str_recent_uploads","Legutóbbi feltöltések","mainpage_content1.php"
 "global","ro","str_recent_uploads","Recent uploads","mainpage_content1.php"
+"global","en","str_invitation_canbe_used_only_once","This invitation link works only once!","afuncs.php"
+"global","hu","str_invitation_canbe_used_only_once","A meghívó link csak egyszer működik!","afuncs.php"
+"global","ro","str_invitation_canbe_used_only_once","This invitation link works only once!","afuncs.php"
