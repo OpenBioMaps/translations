@@ -1941,3 +1941,6 @@
 "global","en","str_original","original","grid_view.php"
 "global","hu","str_original","eredeti","grid_view.php"
 "global","ro","str_original","original","grid_view.php"
+"global","en","str_custom_modules","Custom modules","grid_view.php"
+"global","hu","str_custom_modules","Saját modulok","grid_view.php"
+"global","ro","str_custom_modules","Custom modules","grid_view.php"
