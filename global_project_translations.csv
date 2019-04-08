@@ -80,7 +80,7 @@
 "global","en","str_append","append",
 "global","hu","str_append","hozzáfűz",
 "global","ro","str_append","atașează",
-"global","en","str_apply_text_query","apply reqursive filters","interface.php"
+"global","en","str_apply_text_query","apply recursive filters","interface.php"
 "global","hu","str_apply_text_query","rekurzív szűrők alkalmazása","interface.php"
 "global","ro","str_apply_text_query","filtrare recursivă","interface.php"
 "global","en","str_arbitrary","arbitray","upload_show-table-form.php"
