@@ -725,9 +725,9 @@
 "global","en","str_lang_label","Magyarul",
 "global","hu","str_lang_label","in English",
 "global","ro","str_lang_label","română",
-"global","en","str_last_10_rows","last 10 rows",
-"global","hu","str_last_10_rows","legutóbbi 10 sor",
-"global","ro","str_last_10_rows","ultimele 10 rânduri",
+"global","en","str_last_rows","last rows",
+"global","hu","str_last_rows","legutóbbi sorok",
+"global","ro","str_last_rows","ultimele rânduri",
 "global","en","str_last_modify","last modification","interface.php,results_builder.php"
 "global","hu","str_last_modify","utolsó módosítás","interface.php,results_builder.php"
 "global","ro","str_last_modify","ultima modificare","interface.php,results_builder.php"
