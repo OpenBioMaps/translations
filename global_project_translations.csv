@@ -1956,3 +1956,6 @@
 "global","en","str_what_are_download_requests","What are download requests?","download_restricted.php"
 "global","hu","str_what_are_download_requests","Mik azok a letöltési kérelmek?","download_restricted.php"
 "global","ro","str_what_are_download_requests","What are download requests?","download_restricted.php"
+"global","en","str_replace_module","replace module","project_admin.php"
+"global","hu","str_replace_module","modul cseréje","project_admin.php"
+"global","ro","str_replace_module","înlocui modulul","project_admin.php"
