@@ -1727,7 +1727,7 @@
 "global","ro","str_yes","da","profile.php,project_admin.php,upload_dynamic_js.php,upload_funcs.php"
 "global","en","str_yes_i_want","Yes, I want","upload_dynamic_js.php"
 "global","hu","str_yes_i_want","Igen, szeretném","upload_dynamic_js.php"
-"global","ro","str_yes_i_want","Yes, I want","upload_dynamic_js.php"
+"global","ro","str_yes_i_want","Da vreau","upload_dynamic_js.php"
 "global","en","str_you_have_connected_to_a_stranger_database","you have connected to a stranger database",
 "global","hu","str_you_have_connected_to_a_stranger_database","egy idegen adatbázishoz csatlakoztál",
 "global","ro","str_you_have_connected_to_a_stranger_database","ai accesat o bază de date străină",
