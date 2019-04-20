@@ -736,7 +736,7 @@
 "global","ro","str_last_upload","ultimele încărcări",
 "global","en","str_latitude","latitude (Y)","project_admin.php"
 "global","hu","str_latitude","szélesség (Y)","project_admin.php"
-"global","ro","str_latitude",,"project_admin.php"
+"global","ro","str_latitude","latitudine (Y)","project_admin.php"
 "global","en","str_layer","layer","interface.php,profile.php,project_admin.php"
 "global","hu","str_layer","réteg","interface.php,profile.php,project_admin.php"
 "global","ro","str_layer","strat","interface.php,profile.php,project_admin.php"
@@ -816,7 +816,7 @@
 "global","ro","str_logout","ieșire",
 "global","en","str_longitude","longitude (X)","project_admin.php"
 "global","hu","str_longitude","hosszúság (X)","project_admin.php"
-"global","ro","str_longitude",,"project_admin.php"
+"global","ro","str_longitude","longitudine (X)","project_admin.php"
 "global","en","str_long_text","long text","project_admin.php"
 "global","hu","str_long_text","hosszú szöveg","project_admin.php"
 "global","ro","str_long_text","text lung","project_admin.php"
@@ -1037,10 +1037,10 @@
 "global","ro","str_operations","operații","metaname.php,project_admin.php"
 "global","en","str_opinion_post_1","- You can post your opinion with positive (+) or negatvie (-) voting.<br>- You can post your opinion without voting (ok).","interface.php,profile.php"
 "global","hu","str_opinion_post_1","- Elküldheted a véleményed pozitív (+) vagy negatív (-) jelzéssel.<br>- Elküldheted a véleményed semleges jelzéssel (ok).","interface.php,profile.php"
-"global","ro","str_opinion_post_1"," - Poți exprima opinia votând în mod pozitiv (+) sau negativ (-).<br>- Poți exprima o opinie neutră (ok).","interface.php,profile.php"
+"global","ro","str_opinion_post_1","- Poți exprima opinia votând în mod pozitiv (+) sau negativ (-).<br>- Poți exprima o opinie neutră (ok).","interface.php,profile.php"
 "global","en","str_opinion_post_2","- The negative voting without explanation.<br>- The inconsistency between your comment and the voting.","interface.php,profile.php"
 "global","hu","str_opinion_post_2","- A negatív véleménytő magyarázat nélkül.<br>- Az inkonzisztenciától a véleményed és a szavazatod között.","interface.php,profile.php"
-"global","ro","str_opinion_post_2"," - opinia negativă fără explicații. <br> - inconsecvența dintre votul exprimat și comentariul.","interface.php,profile.php"
+"global","ro","str_opinion_post_2","- opinia negativă fără explicații.<br>- inconsecvența dintre votul exprimat și comentariul.","interface.php,profile.php"
 "global","en","str_opinions","opinions","interface.php"
 "global","hu","str_opinions","vélemények","interface.php"
 "global","ro","str_opinions","opinii","interface.php"
@@ -1370,7 +1370,7 @@
 "global","ro","str_send","trimite","profile.php,upload_show-table-form.php"
 "global","en","str_sensitive","sensitive","project_admin.php"
 "global","hu","str_sensitive","érzékeny","project_admin.php"
-"global","ro","str_sensitive",,"project_admin.php"
+"global","ro","str_sensitive","sensibil","project_admin.php"
 "global","en","str_session","session","interface.php,upload_show-table-form.php"
 "global","hu","str_session","munkamenet","interface.php,upload_show-table-form.php"
 "global","ro","str_session","sesiune","interface.php,upload_show-table-form.php"
@@ -1454,7 +1454,7 @@
 "global","ro","str_some_warnings","Atenție! Corectează sau click încă o dată pe butonul ÎNCĂRCARE DATE pentru a ignora avertismentul!","upload_funcs.php"
 "global","en","str_spatial_geometry","spatial geometry","project_admin.php"
 "global","hu","str_spatial_geometry","térbeli geomatria","project_admin.php"
-,"ro","str_spatial_geometry",,"project_admin.php"
+"global","ro","str_spatial_geometry","geometrie spațială","project_admin.php"
 "global","en","str_spatial_relationship","spatial realtionship",
 "global","hu","str_spatial_relationship","térbeli kapcsolat",
 "global","ro","str_spatial_relationship","relație spațială",
@@ -1482,9 +1482,9 @@
 "global","en","str_sqdesc","By clicking the links below, saved queries can be loaded. You can save the links from the right click menu to save them to the clipboard.","interface.php"
 "global","hu","str_sqdesc","Az alábbi hivatkozásokra kattintva az elmentett lekérdezések visszatölthetőek. A hivatkozásokat a jobb egérgombos menüből kiválasztva a vágólapra mentheti.","interface.php"
 "global","ro","str_sqdesc","Accesând acest link puteți continua o interogare salvată. Puteți salva linkul alegând opțiunea salvează din meniul click dreapta.","interface.php"
-"global","en","str_srdesc",,"interface.php"
-"global","hu","str_srdesc",,"interface.php"
-"global","ro","str_srdesc",,"interface.php"
+"global","en","str_srdesc","permanent identifiers","interface.php"
+"global","hu","str_srdesc","tartós azonosítók","interface.php"
+"global","ro","str_srdesc","identificatori permanenți","interface.php"
 "global","en","str_state","state","project_admin.php"
 "global","hu","str_state","állapot","project_admin.php"
 "global","ro","str_state","stare","project_admin.php"
@@ -1500,9 +1500,9 @@
 "global","en","str_sum","sum","upload_show-table-form.php"
 "global","hu","str_sum","összeg","upload_show-table-form.php"
 "global","ro","str_sum","sumă","upload_show-table-form.php"
-"global","en","str_sumall","in all",
-"global","hu","str_sumall","összesen",
-"global","ro","str_sumall","din totalul de",
+"global","en","str_sumall","in all","identify_point.php"
+"global","hu","str_sumall","összesen","identify_point.php"
+"global","ro","str_sumall","din totalul de","identify_point.php"
 "global","en","str_summary","summary",
 "global","hu","str_summary","összefoglaló",
 "global","ro","str_summary","sumar",
@@ -1529,7 +1529,7 @@
 "global","ro","str_taxon_names","denumire specii","interface.php,project_admin.php"
 "global","en","str_tc","Terms & Conditions",
 "global","hu","str_tc","Szabályok és feltételek",
-"global","ro","str_tc","reguli și condiții",
+"global","ro","str_tc","Reguli și condiții",
 "global","en","str_technical_info","technical information",
 "global","hu","str_technical_info","technical information",
 "global","ro","str_technical_info","informație tehnică",
@@ -1539,15 +1539,12 @@
 "global","en","str_text","text","project_admin.php,upload_show-table-form.php"
 "global","hu","str_text","szöveg","project_admin.php,upload_show-table-form.php"
 "global","ro","str_text","text","project_admin.php,upload_show-table-form.php"
-"global","en","str_text_filters","text filters",
-"global","hu","str_text_filters","szöveges szűrők",
-"global","ro","str_text_filters","filtre de text",
+"global","en","str_text_filters","text filters","text_filter.php,text_filter2.php"
+"global","hu","str_text_filters","szöveges szűrők","text_filter.php,text_filter2.php"
+"global","ro","str_text_filters","filtre de text","text_filter.php,text_filter2.php"
 "global","en","str_thanks_for","Thank you for your contribution!","interface.php,profile.php"
 "global","hu","str_thanks_for","Köszönet a hozzájárulásodért!","interface.php,profile.php"
 "global","ro","str_thanks_for","mulțumim că ați contribuit cu opinia","interface.php,profile.php"
-"global","en","str_the","the",
-"global","hu","str_the","a",
-"global","ro","str_the",,
 "global","en","str_thx_for_opinion","thanks for your contribution to the evaluation","evaluation.php"
 "global","hu","str_thx_for_opinion","köszönjük, hogy véleményével hozzájárult az értékeléshez","evaluation.php"
 "global","ro","str_thx_for_opinion","mulțumim că ați contribuit cu opinia dumneavoastră la evaluare","evaluation.php"
@@ -1560,15 +1557,12 @@
 "global","en","str_time_to_minutes","time to minutes","project_admin.php,upload_show-table-form.php"
 "global","hu","str_time_to_minutes","idő percekben","project_admin.php,upload_show-table-form.php"
 "global","ro","str_time_to_minutes","timp până la minute","project_admin.php,upload_show-table-form.php"
-"global","en","str_to","to",
-"global","hu","str_to","-ig",
-"global","ro","str_to","până la",
-"global","en","str_top_ten","Top 10",
-"global","hu","str_top_ten","10 leggyakoribb",
-"global","ro","str_top_ten","top 10",
+"global","en","str_to","to","text_filter.php,text_filter2.php"
+"global","hu","str_to","-ig","text_filter.php,text_filter2.php"
+"global","ro","str_to","până la","text_filter.php,text_filter2.php"
 "global","en","str_translation","translation","project_admin.php"
 "global","hu","str_translation","fordítás","project_admin.php"
-"global","ro","str_translation",,"project_admin.php"
+"global","ro","str_translation","traducere","project_admin.php"
 "global","en","str_true","true","common_pg_funcs.php,project_admin.php"
 "global","hu","str_true","igen","common_pg_funcs.php,project_admin.php"
 "global","ro","str_true","da","common_pg_funcs.php,project_admin.php"
@@ -1656,8 +1650,8 @@
 "global","en","str_validation","validation","interface.php,project_admin.php"
 "global","hu","str_validation","validitás","interface.php,project_admin.php"
 "global","ro","str_validation","validare","interface.php,project_admin.php"
-"global","en","str_validhist","Evaluation history",
-"global","hu","str_validhist","Értékelés történet",
+"global","en","str_validhist","evaluation history",
+"global","hu","str_validhist","értékelés történet",
 "global","ro","str_validhist","istoric validare",
 "global","en","str_valuation","evaluation","interface.php,mainpage_sidebar2.php,profile.php"
 "global","hu","str_valuation","értékelés","interface.php,mainpage_sidebar2.php,profile.php"
