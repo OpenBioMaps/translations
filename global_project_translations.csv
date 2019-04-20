@@ -37,7 +37,7 @@
 "global","ro","str_add_records_to","adaugă înregistrări la",
 "global","en","str_add_translation","add translation","project_admin.php"
 "global","hu","str_add_translation","fordítás hozzáadása","project_admin.php"
-"global","ro","str_add_translation",,"project_admin.php"
+"global","ro","str_add_translation","adăugați traducerea","project_admin.php"
 "global","en","str_admin","admin",
 "global","hu","str_admin","gazda",
 "global","ro","str_admin","administrator",
