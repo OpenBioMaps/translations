@@ -583,7 +583,7 @@
 "global","ro","str_given_name","prenume","profile.php"
 "global","en","str_global_translations","global translations","project_admin.php"
 "global","hu","str_global_translations","globális fordítások","project_admin.php"
-"global","ro","str_global_translations",,"project_admin.php"
+"global","ro","str_global_translations","traduceri globale","project_admin.php"
 "global","en","str_green","green",
 "global","hu","str_green","zöld",
 "global","ro","str_green","verde",
@@ -1163,7 +1163,7 @@
 "global","ro","str_project_team","Echipa [%PROJECTTABLE%]","common_pg_funcs.php"
 "global","en","str_project_users","project users","interface.php"
 "global","hu","str_project_users","projekt felhasználók","interface.php"
-"global","ro","str_project_users",,"interface.php"
+"global","ro","str_project_users","utilizatorii proiectului","interface.php"
 "global","en","str_proj_geom","project geometry","project_admin.php"
 "global","hu","str_proj_geom","projekt geometria","project_admin.php"
 "global","ro","str_proj_geom","geometrie proiect","project_admin.php"
