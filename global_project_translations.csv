@@ -1968,3 +1968,7 @@
 "global","en","str_share_data_width_project","Send data","results_buttons.php"
 "global","hu","str_share_data_width_project","Adat küldése","results_buttons.php"
 "global","ro","str_share_data_width_project","Send data","results_buttons.php"
+"global","en","str_data_posted","Data posted","results_buttons.php"
+"global","hu","str_data_posted","Adatok elküldve","results_buttons.php"
+"global","ro","str_data_posted","Data posted","results_buttons.php"
+
