@@ -1971,4 +1971,6 @@
 "global","en","str_data_posted","Data posted","results_buttons.php"
 "global","hu","str_data_posted","Adatok elküldve","results_buttons.php"
 "global","ro","str_data_posted","Data posted","results_buttons.php"
-
+"global","en","str_interconnect_posted_data","Shared data","upload.php"
+"global","hu","str_interconnect_posted_data","Megosztott adatok","upload.php"
+"global","ro","str_interconnect_posted_data","Shared data","upload.php"
