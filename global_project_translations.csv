@@ -1974,3 +1974,6 @@
 "global","en","str_interconnect_posted_data","Shared data","upload.php"
 "global","hu","str_interconnect_posted_data","Megosztott adatok","upload.php"
 "global","ro","str_interconnect_posted_data","Shared data","upload.php"
+"global","en","str_signed_up_into","%1$s signed up into %2$s","common_pg_funcs.php"
+"global","hu","str_signed_up_into","%1$s csatlakozott a %2$s" projekthez","common_pg_funcs.php"
+"global","ro","str_signed_up_into","%1$s s-a alaturat %2$s","common_pg_funcs.php"
