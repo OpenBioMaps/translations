@@ -673,7 +673,7 @@
 "global","ro","str_inv_code","cod invitație",
 "global","en","str_invitate","An invitation  is required to sign up. Only <a href=""?database#members"">members</a> can send invitations. The registration and the database usage are free. For further assistance, please contact the database  <a href=""?database#maintainers"">maintainers</a> or its <a href=""?database#founder"">founder</a>.",
 "global","hu","str_invitate","A regisztrációhoz meghívásra van szükség. Csak <a href=""?database#members"">tagok</a> küldhetnek meghívókat. A regisztráció és az adatbázis használata ingyenes. További segítségért kérjük, lépjen kapcsolatba az adatbázis <a href=""?database#maintainers"">üzemeltetőivel</a> vagy az <a href=""?database#founder"">alapítójával</a>.",
-"global","ro","str_invitate",""Înregistrarea la baza de date se face pe bază de invitație. Invitație poate fi trimisă de oricare <a href=""?database#members"">membru</a> a bazei de date. Înregistrarea și folosirea bazei de date este gratuită. Pentru asistență vă rugăm contactați <a href=""?database#maintainers"">administratorii</a>."",""
+"global","ro","str_invitate","Înregistrarea la baza de date se face pe bază de invitație. Invitație poate fi trimisă de oricare <a href=""?database#members"">membru</a> a bazei de date. Înregistrarea și folosirea bazei de date este gratuită. Pentru asistență vă rugăm contactați <a href=""?database#maintainers"">administratorii</a>.",""
 "global","en","str_invitation","invitation","afuncs.php,common_pg_funcs.php,prepare_vars.php,profile.php"
 "global","hu","str_invitation","meghívás","afuncs.php,common_pg_funcs.php,prepare_vars.php,profile.php"
 "global","ro","str_invitation","invitație","afuncs.php,common_pg_funcs.php,prepare_vars.php,profile.php"
