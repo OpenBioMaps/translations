@@ -74,9 +74,9 @@
 "global","en","str_any","any","project_admin.php"
 "global","hu","str_any","bármi","project_admin.php"
 "global","ro","str_any","orice","project_admin.php"
-"global","en","str_api_params","api form control parameters","project_admin.php"
-"global","hu","str_api_params","api űrlap kontroll paraméterek","project_admin.php"
-"global","ro","str_api_params","formular control parametrii api","project_admin.php"
+"global","en","str_api_params","field display options","project_admin.php"
+"global","hu","str_api_params","mező megjelenítés opciók","project_admin.php"
+"global","ro","str_api_params","field display options","project_admin.php"
 "global","en","str_append","append",
 "global","hu","str_append","hozzáfűz",
 "global","ro","str_append","atașează",
