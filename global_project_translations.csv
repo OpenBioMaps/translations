@@ -1984,8 +1984,6 @@
 "global","en","str_file_processing_extra_arguments","Extra arguments for processing files<br> &nbsp; &nbsp; CSV arguments: charachter encoding (c:), separator character (s:), decimal character (d:), header line (h:)<br> &nbsp; &nbsp; SHP arguments: EPSG:epsg_srid<br> &nbsp; &nbsp; SQLite arguments: layer's name<br>","upload.php"
 "global","hu","str_file_processing_extra_arguments","Extra arguments for processing files<br> &nbsp; &nbsp; CSV arguments: charachter encoding (c:), separator character (s:), decimal character (d:), header line (h:)<br> &nbsp; &nbsp; SHP arguments: EPSG:epsg_srid<br> &nbsp; &nbsp; SQLite arguments: layer's name<br>","upload.php"
 "global","ro","str_file_processing_extra_arguments","Argumente adiționale pentru procesarea fișierelor <br> &nbsp; &nbsp; argumente CSV: charachter encoding (c:), separator character (s:), decimal character (d:), header line (h:)<br> &nbsp; &nbsp; argumente SHP: EPSG:epsg_srid<br> &nbsp; &nbsp; argumente SQLite: layer's name<br>","upload.php"
-"global","hu","str_file_processing_extra_arguments","","upload.php"
-"global","ro","str_file_processing_extra_arguments","","upload.php"
 "global","en","str_no_results_found","No results for the query.","wfs_show_results.php"
 "global","hu","str_no_results_found","Nem talált eredményeket.","wfs_show_results.php"
 "global","ro","str_no_results_found","Nu au fost găsite rezultate.","wfs_show_results.php"
