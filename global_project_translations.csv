@@ -831,6 +831,7 @@
 "global","en","str_map","map","interface.php,profile.php,project_admin.php"
 "global","hu","str_map","térkép","interface.php,profile.php,project_admin.php"
 "global","ro","str_map","hartă","interface.php,profile.php,project_admin.php"
+"global","ru","str_map","карта","interface.php,profile.php,project_admin.php"
 "global","en","str_map_access","map access","profile.php"
 "global","hu","str_map_access","térkép elérés","profile.php"
 "global","ro","str_map_access","acces hartă","profile.php"
@@ -1532,6 +1533,7 @@
 "global","en","str_tc","Terms & Conditions",
 "global","hu","str_tc","Szabályok és feltételek",
 "global","ro","str_tc","Reguli și condiții",
+"global","ru","str_tc","Условия и положения",
 "global","en","str_technical_info","technical information",
 "global","hu","str_technical_info","technical information",
 "global","ro","str_technical_info","informație tehnică",
@@ -1595,6 +1597,7 @@
 "global","en","str_upload","upload","evaluation.php,interface.php,mainpage_sidebar1.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
 "global","hu","str_upload","feltöltés","evaluation.php,interface.php,mainpage_sidebar1.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
 "global","ro","str_upload","încărcare","evaluation.php,interface.php,mainpage_sidebar1.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
+"global","ru","str_upload","загружать","evaluation.php,interface.php,mainpage_sidebar1.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
 "global","en","str_uploadcount","upload count","mainpage_sidebar2.php,profile.php"
 "global","hu","str_uploadcount","feltöltések száma","mainpage_sidebar2.php,profile.php"
 "global","ro","str_uploadcount","număr încărcări","mainpage_sidebar2.php,profile.php"
