@@ -2,6 +2,7 @@
 "global","en","str_about_db","about the database",
 "global","hu","str_about_db","az adatbázisról",
 "global","ro","str_about_db","despre baza de date",
+"global","ru","str_about_db","",
 "global","en","str_accepted_name","accepted name","metaname.php"
 "global","hu","str_accepted_name","elfogadott név","metaname.php"
 "global","ro","str_accepted_name","denumire acceptată","metaname.php"
