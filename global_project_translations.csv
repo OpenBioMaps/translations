@@ -24,6 +24,7 @@
 "global","en","str_activity","activity","mainpage_sidebar3.php,profile.php"
 "global","hu","str_activity","aktivitás","mainpage_sidebar3.php,profile.php"
 "global","ro","str_activity","activitate","mainpage_sidebar3.php,profile.php"
+"global","ru","str_activity","деятельность","mainpage_sidebar3.php,profile.php"
 "global","en","str_activity_area","activity area","profile.php"
 "global","hu","str_activity_area","aktivitási terület","profile.php"
 "global","ro","str_activity_area","arealul observațiilor încărcate","profile.php"
@@ -273,6 +274,7 @@
 "global","en","str_data","data","evaluation.php,interface.php,mainpage_footer.php,mainpage_sidebar1.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
 "global","hu","str_data","adat","evaluation.php,interface.php,mainpage_footer.php,mainpage_sidebar1.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
 "global","ro","str_data","dată","evaluation.php,interface.php,mainpage_footer.php,mainpage_sidebar1.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
+"global","ru","str_data","данные","evaluation.php,interface.php,mainpage_footer.php,mainpage_sidebar1.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload.php,upload_show-table-form.php"
 "global","en","str_database","database","upload_show-table-form.php"
 "global","hu","str_database","adatbázis","upload_show-table-form.php"
 "global","ro","str_database","bază de date","upload_show-table-form.php"
@@ -853,6 +855,7 @@
 "global","en","str_members","members","interface.php,mainpage_sidebar1.php,profile.php,project_admin.php"
 "global","hu","str_members","tagok","interface.php,mainpage_sidebar1.php,profile.php,project_admin.php"
 "global","ro","str_members","membrii","interface.php,mainpage_sidebar1.php,profile.php,project_admin.php"
+"global","ru","str_members","члены","interface.php,mainpage_sidebar1.php,profile.php,project_admin.php"
 "global","en","str_message","message","interface.php,main.js.php,prepare_vars.php,upload.php"
 "global","hu","str_message","üzenet","interface.php,main.js.php,prepare_vars.php,upload.php"
 "global","ro","str_message","mesaj","interface.php,main.js.php,prepare_vars.php,upload.php"
@@ -1607,9 +1610,11 @@
 "global","en","str_uploaded_data","uploaded data",
 "global","hu","str_uploaded_data","feltöltött adat",
 "global","ro","str_uploaded_data","date încărcate",
+"global","ru","str_uploaded_data","загруженные данные",
 "global","en","str_uploader","uploader","results_builder.php"
 "global","hu","str_uploader","feltöltő","results_builder.php"
 "global","ro","str_uploader","încărcat de","results_builder.php"
+"global","ru","str_uploader","загрузчик","results_builder.php"
 "global","en","str_upload_extent","Uploaded geometry extent","upload_funcs.php"
 "global","hu","str_upload_extent","Feltöltött adatok térbeli kiterjedése","upload_funcs.php"
 "global","ro","str_upload_extent","întinderea geometriilor încărcate","upload_funcs.php"
@@ -1631,6 +1636,7 @@
 "global","en","str_uploads","uploads","mainpage_sidebar1.php"
 "global","hu","str_uploads","feltöltések","mainpage_sidebar1.php"
 "global","ro","str_uploads","încărcări","mainpage_sidebar1.php"
+"global","ru","str_uploads","добавления","mainpage_sidebar1.php"
 "global","en","str_url","URL","project_admin.php"
 "global","hu","str_url","URL","project_admin.php"
 "global","ro","str_url","URL","project_admin.php"
@@ -1638,8 +1644,9 @@
 "global","hu","str_user","felhasználó","evaluation.php,interface.php,mainpage_sidebar2.php,profile.php"
 "global","ro","str_user","utilizator","evaluation.php,interface.php,mainpage_sidebar2.php,profile.php"
 "global","en","str_user_agreement","User Agreement",
-"global","hu","str_user_agreement","User Agreement",
+"global","hu","str_user_agreement","Felhasználói szerződés",
 "global","ro","str_user_agreement","reguli și condiții de utilizare (pdf)",
+"global","ru","str_user_agreement","Пользовательское соглашение",
 "global","en","str_userdata","user data","interface.php,profile.php"
 "global","hu","str_userdata","felhasználói adatok","interface.php,profile.php"
 "global","ro","str_userdata","date utilizator","interface.php,profile.php"
