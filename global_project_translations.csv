@@ -2045,3 +2045,6 @@
 "global","en","str_spatial_query","spatial query","interface.php"
 "global","hu","str_spatial_query","térbeli lekérdezés","interface.php"
 "global","ro","str_spatial_query","interogare spațială","interface.php"
+"global","en","str_read_table","reading a table","read_table.php"
+"global","hu","str_read_table","tábla olvasása","read_table.php"
+"global","ro","str_read_table","reading a table","read_table.php"
