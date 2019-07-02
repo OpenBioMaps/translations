@@ -554,9 +554,9 @@
 "global","en","str_fulllist","full list",
 "global","hu","str_fulllist","teljes lista",
 "global","ro","str_fulllist","listă completă",
-"global","en","str_function","functions","interface.php,project_admin.php"
-"global","hu","str_function","függvények","interface.php,project_admin.php"
-"global","ro","str_function","funcții","interface.php,project_admin.php"
+"global","en","str_function","function","interface.php,project_admin.php,upload_show-table-form.php"
+"global","hu","str_function","függvény","interface.php,project_admin.php,upload_show-table-form.php"
+"global","ro","str_function","funcţie","interface.php,project_admin.php,upload_show-table-form.php"
 "global","en","str_geomdesc","geometry managagement interface","interface.php"
 "global","hu","str_geomdesc","geometria kezelési felület","interface.php"
 "global","ro","str_geomdesc","interfața de manipulare a geometriilor încărcate","interface.php"
@@ -2048,3 +2048,12 @@
 "global","en","str_read_table","reading a table","read_table.php"
 "global","hu","str_read_table","tábla olvasása","read_table.php"
 "global","ro","str_read_table","reading a table","read_table.php"
+"global","en","str_apply","apply","upload_show-table-form.php"
+"global","hu","str_apply","alkalmaz","upload_show-table-form.php"
+"global","ro","str_apply","aplica","upload_show-table-form.php"
+"global","en","str_other_column","other column","upload_show-table-form.php"
+"global","hu","str_other_column","másik oszlop","upload_show-table-form.php"
+"global","ro","str_other_column","altă coloană","upload_show-table-form.php"
+"global","en","str_parameters","parameters","upload_show-table-form.php"
+"global","hu","str_parameters","paraméterek","upload_show-table-form.php"
+"global","ro","str_parameters","parametrii","upload_show-table-form.php"
