@@ -2060,3 +2060,6 @@
 "global","en","str_parameters","parameters","upload_show-table-form.php"
 "global","hu","str_parameters","paraméterek","upload_show-table-form.php"
 "global","ro","str_parameters","parametrii","upload_show-table-form.php"
+"global","en","str_close","close","upload_show-table-form.php"
+"global","hu","str_close","bezár","upload_show-table-form.php"
+"global","ro","str_close","închide","upload_show-table-form.php"
