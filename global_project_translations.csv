@@ -2063,3 +2063,6 @@
 "global","en","str_close","close","upload_show-table-form.php"
 "global","hu","str_close","bezár","upload_show-table-form.php"
 "global","ro","str_close","închide","upload_show-table-form.php"
+"global","en","str_write_back","writes back to the cell","upload_show-table-form.php"
+"global","hu","str_write_back","visszaír a cellába","upload_show-table-form.php"
+"global","ro","str_write_back","scrie înapoi la celulă","upload_show-table-form.php"
