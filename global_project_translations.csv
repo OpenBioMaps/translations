@@ -1754,9 +1754,9 @@
 "global","en","str_your_invitations_accepted","Your invitations accepted","common_pg_funcs.php"
 "global","hu","str_your_invitations_accepted","A meghívóját elfogadták","common_pg_funcs.php"
 "global","ro","str_your_invitations_accepted","Invitația Dumneavoastră a fost acceptată","common_pg_funcs.php"
-"global","en","str_your_opinion","your opinion","interface.php"
-"global","hu","str_your_opinion","az ön véleménye","interface.php"
-"global","ro","str_your_opinion","opinia ta","interface.php"
+"global","en","str_your_opinion","your comments and opinions","interface.php,data-sheet-page.php"
+"global","hu","str_your_opinion","az ön észrevételei és véleménye","interface.php,data-sheet-page.php"
+"global","ro","str_your_opinion","comentariile și opiniile dvs.","interface.php,data-sheet-page.php"
 "global","en","str_new_project_welcome","It is easy to founding a new database project!<br> <br><br>",
 "global","hu","str_new_project_welcome","Új adatbázis projektet bárki alapíthat egyszerűen!<br>A lépések a következők:<ol><li>Egyedi nevet kell adnia a projektnek, ami az adatbázis tábláink neve is lesz egyúttal.</li><li>Szükséges egy rövid leíró nevet is adnia a projektjének.</li><li>Szükséges egy részletes leírást is írnia arról, hogy mi ez a projekt, mi a célja.</li><li>Meg kell határoznia az adatok elérésének és módosítának a lehetőségeit.</li><li>Az űrlap kitöltése és elküldése után a projekt kísérleti stádiumba kerül.</li><li>Az ebben a projektben érvényes felhasználó nevével és jelszavával tud belépni az újonnan létrejött projektbe, ahol a további beállításokat kell majd elvégeznie.</li></ol><br><br>",
 "global","ro","str_new_project_welcome","Puteți înființa o bază de date nouă simplu!<br> Înființarea unui proiect nou constă din definirea bazei de date și înființarea unui grup de lucru.<br> Pentru crearea bazei de date completați formularul de mai jos. Baza de date trebuie să primească o denumire unică, care în același timp va fi și numele proiectului. Trebuie definit gradul de accesibilitate publică a datelor etc. Îndrumarul pentru completarea câmpurilor se găsește sub formular.  Dacă aveți nevoie de ajutor adițional, contactați administratorul bazei de date, în care vă aflați.<br>  După trimiterea formularului, trebuie contactat unul dintre administratorii OpenBioMaps pentru activarea proiectului. Datele de contact al administratorilor poate fi găsit în documentație..<br> Mulțumim pentru contribuția acordată comunității Openbiomaps și pentru mărirea numărului de date neprelucrate publice disponibile!<br><br>",
