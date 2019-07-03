@@ -1050,9 +1050,12 @@
 "global","en","str_opinion_post_2","- The negative voting without explanation.<br>- The inconsistency between your comment and the voting.","interface.php,profile.php"
 "global","hu","str_opinion_post_2","- A negatív véleménytő magyarázat nélkül.<br>- Az inkonzisztenciától a véleményed és a szavazatod között.","interface.php,profile.php"
 "global","ro","str_opinion_post_2","- opinia negativă fără explicații.<br>- inconsecvența dintre votul exprimat și comentariul.","interface.php,profile.php"
-"global","en","str_opinions","opinions","interface.php"
-"global","hu","str_opinions","vélemények","interface.php"
-"global","ro","str_opinions","opinii","interface.php"
+"global","en","str_evaluation_score","evaluation score","data-sheet-page.php"
+"global","hu","str_evaluation_score","értékelési pontszám","data-sheet-page.php"
+"global","ro","str_evaluation_score","scor de evaluare","data-sheet-page.php"
+"global","en","str_evaluation","evaluation","data-sheet-page.php"
+"global","hu","str_evaluation","értékelés","data-sheet-page.php"
+"global","ro","str_evaluation","evaluare","data-sheet-page.php"
 "global","en","str_options","search options",
 "global","hu","str_options","keresési opciók",
 "global","ro","str_options","opțiuni",
