@@ -1623,7 +1623,7 @@
 "global","hu","str_upload_extent","Feltöltött adatok térbeli kiterjedése","upload_funcs.php"
 "global","ro","str_upload_extent","întinderea geometriilor încărcate","upload_funcs.php"
 "global","en","str_upload_forms","upload forms","interface.php,project_admin.php"
-"global","hu","str_upload_forms","feltöltő formok","interface.php,project_admin.php"
+"global","hu","str_upload_forms","feltöltő űrlapok","interface.php,project_admin.php"
 "global","ro","str_upload_forms","creare formulare","interface.php,project_admin.php"
 "global","en","str_upload_from_file","upload from file",
 "global","hu","str_upload_from_file","feltöltés fájlból",
