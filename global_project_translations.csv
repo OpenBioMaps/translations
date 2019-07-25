@@ -2066,3 +2066,6 @@
 "global","en","str_write_back","writes back to the cell","upload_show-table-form.php"
 "global","hu","str_write_back","visszaír a cellába","upload_show-table-form.php"
 "global","ro","str_write_back","scrie înapoi la celulă","upload_show-table-form.php"
+"global","en","str_uploaded_species","uploaded species","interface.php"
+"global","hu","str_uploaded_species","feltöltött faj","interface.php"
+"global","ro","str_uploaded_species","specii încărcate","interface.php"
