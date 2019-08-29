@@ -623,6 +623,7 @@
 "global","en","str_identify","identify",
 "global","hu","str_identify","azonosít",
 "global","ro","str_identify","identifică",
+"global","ru","str_identify","идентифицировать",
 "global","en","str_if_defined_xy","If defined X,Y coords or Like this: [[1,2],[2,3],[2,1]])","upload_show-table-form.php"
 "global","hu","str_if_defined_xy","Ha meg vannak adva koordináták vagy ilyenek: [[1,2],[2,3],[2,1]])","upload_show-table-form.php"
 "global","ro","str_if_defined_xy","dacă sunt definite coordonatele X, Y sau : [[1,2],[2,3],[2,1]]","upload_show-table-form.php"
@@ -637,7 +638,7 @@
 "global","ro","str_import_data","încărcare date","upload_show-table-form.php"
 "global","en","str_inaccurate_name","inaccurate name",
 "global","hu","str_inaccurate_name","pontatlan név",
-"global","ro","str_inaccurate_name",,
+"global","ro","str_inaccurate_name","inaccurate name",
 "global","en","str_included","included","project_admin.php"
 "global","hu","str_included","tartalmazza","project_admin.php"
 "global","ro","str_included","conține","project_admin.php"
@@ -667,7 +668,7 @@
 "global","ro","str_intersects","intersectează",
 "global","en","str_in_the","in the",
 "global","hu","str_in_the","a",
-"global","ro","str_in_the",,
+"global","ro","str_in_the","in the",
 "global","en","str_inthisquerythefollowing","List of collectors","results_builder.php"
 "global","hu","str_inthisquerythefollowing","A lekérdezésben az alábbi gyüjtők és adatközlők adatai szerepelnek","results_builder.php"
 "global","ro","str_inthisquerythefollowing","Lista observatorilor din interogare","results_builder.php"
@@ -728,6 +729,7 @@
 "global","en","str_lang_label","Magyarul",
 "global","hu","str_lang_label","in English",
 "global","ro","str_lang_label","română",
+"global","ru","str_lang_label","русский",
 "global","en","str_last_rows","last rows",
 "global","hu","str_last_rows","legutóbbi sorok",
 "global","ro","str_last_rows","ultimele rânduri",
@@ -956,6 +958,7 @@
 "global","en","str_navigation","Navigation","interface.php"
 "global","hu","str_navigation","Navigáció","interface.php"
 "global","ro","str_navigation","navigare","interface.php"
+"global","ru","str_navigation","навигация","interface.php"
 "global","en","str_new","new","interface.php,profile.php,project_admin.php,results_builder.php,upload_show-table-form.php"
 "global","hu","str_new","új","interface.php,profile.php,project_admin.php,results_builder.php,upload_show-table-form.php"
 "global","ro","str_new","nou","interface.php,profile.php,project_admin.php,results_builder.php,upload_show-table-form.php"
@@ -1150,6 +1153,7 @@
 "global","en","str_profile","profile","interface.php"
 "global","hu","str_profile","profil","interface.php"
 "global","ro","str_profile","profil","interface.php"
+"global","ru","str_profile","профиль","interface.php"
 "global","en","str_proj_comment","comments","profile.php"
 "global","hu","str_proj_comment","kommentek","profile.php"
 "global","ro","str_proj_comment","comentarii proiect","profile.php"
@@ -1526,6 +1530,7 @@
 "global","en","str_summary","summary",
 "global","hu","str_summary","összefoglaló",
 "global","ro","str_summary","sumar",
+"global","ru","str_summary","резюме",
 "global","en","str_synonym_name","synonym name","metaname.php"
 "global","hu","str_synonym_name","szinoním név","metaname.php"
 "global","ro","str_synonym_name","sinonimă","metaname.php"
@@ -2059,6 +2064,7 @@
 "global","en","str_spatial_query","spatial query","interface.php"
 "global","hu","str_spatial_query","térbeli lekérdezés","interface.php"
 "global","ro","str_spatial_query","interogare spațială","interface.php"
+"global","ru","str_spatial_query","пространственный запрос","interface.php"
 "global","en","str_read_table","reading a table","read_table.php"
 "global","hu","str_read_table","tábla olvasása","read_table.php"
 "global","ro","str_read_table","reading a table","read_table.php"
