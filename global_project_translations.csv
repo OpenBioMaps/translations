@@ -1135,6 +1135,7 @@
 "global","en","str_position","position","interface.php"
 "global","hu","str_position","pozició","interface.php"
 "global","ro","str_position","poziție","interface.php"
+"global","ru","str_position","позиция","interface.php"
 "global","en","str_preparation_of_results","Preparing results","main.js.php"
 "global","hu","str_preparation_of_results","Az eredmények előkészítése","main.js.php"
 "global","ro","str_preparation_of_results","Pregătirea rezultatelor","main.js.php"
