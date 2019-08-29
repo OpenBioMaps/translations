@@ -737,9 +737,11 @@
 "global","en","str_last_upload","last upload",
 "global","hu","str_last_upload","utolsó feltöltés",
 "global","ro","str_last_upload","ultimele încărcări",
+"global","ru","str_last_upload","последняя вставка",
 "global","en","str_latitude","latitude (Y)","project_admin.php"
 "global","hu","str_latitude","szélesség (Y)","project_admin.php"
 "global","ro","str_latitude","latitudine (Y)","project_admin.php"
+"global","ru","str_latitude","широта (Y)","project_admin.php"
 "global","en","str_layer","layer","interface.php,profile.php,project_admin.php"
 "global","hu","str_layer","réteg","interface.php,profile.php,project_admin.php"
 "global","ro","str_layer","strat","interface.php,profile.php,project_admin.php"
@@ -818,9 +820,11 @@
 "global","en","str_logout","log out",
 "global","hu","str_logout","kilép",
 "global","ro","str_logout","ieșire",
+"global","ru","str_logout","выйти",
 "global","en","str_longitude","longitude (X)","project_admin.php"
 "global","hu","str_longitude","hosszúság (X)","project_admin.php"
 "global","ro","str_longitude","longitudine (X)","project_admin.php"
+"global","ru","str_longitude","долгота (X)","project_admin.php"
 "global","en","str_long_text","long text","project_admin.php"
 "global","hu","str_long_text","hosszú szöveg","project_admin.php"
 "global","ro","str_long_text","text lung","project_admin.php"
@@ -916,6 +920,7 @@
 "global","en","str_more_options","more options",
 "global","hu","str_more_options","további opciók",
 "global","ro","str_more_options","mai multe opțiuni",
+"global","ru","str_more_options","больше вариантов",
 "global","en","str_more_uploadform_options","Choose from the uploading facilities","upload.php"
 "global","hu","str_more_uploadform_options","Válasszon a feltöltési lehetőségek közül","upload.php"
 "global","ro","str_more_uploadform_options","Alege dintre opțiunile de încărcare date","upload.php"
@@ -1204,6 +1209,7 @@
 "global","en","str_query","Query","interface.php,metaname.php,project_admin.php"
 "global","hu","str_query","Kérdés","interface.php,metaname.php,project_admin.php"
 "global","ro","str_query","interogare","interface.php,metaname.php,project_admin.php"
+"global","ru","str_query","запрос","interface.php,metaname.php,project_admin.php"
 "global","en","str_query_by_id","query by id","metaname.php"
 "global","hu","str_query_by_id","Lekérdezés azonosító alapján","metaname.php"
 "global","ro","str_query_by_id","query by id","metaname.php"
@@ -1219,9 +1225,11 @@
 "global","en","str_query_table","QUERY TABLE","interface.php"
 "global","hu","str_query_table","LEKÉRDEZETT TÁBLA","interface.php"
 "global","ro","str_query_table","TABELUL INTEROGAT","interface.php"
+"global","ru","str_query_table","ТАБЛИЦА ЗАПРОСОВ","interface.php"
 "global","en","str_quick_queries","quick queries",
 "global","hu","str_quick_queries","gyors lekérdezések",
 "global","ro","str_quick_queries","quick queries",
+"global","ru","str_quick_queries","быстрые запросы",
 "global","en","str_range_period","date range (without year)",
 "global","hu","str_range_period","dátum tartomány (év nélkül)",
 "global","ro","str_range_period","perioadă (fără an)",
@@ -1553,6 +1561,7 @@
 "global","en","str_text_filters","text filters","text_filter.php,text_filter2.php"
 "global","hu","str_text_filters","szöveges szűrők","text_filter.php,text_filter2.php"
 "global","ro","str_text_filters","filtre de text","text_filter.php,text_filter2.php"
+"global","ru","str_text_filters","текстовые фильтры","text_filter.php,text_filter2.php"
 "global","en","str_thanks_for","Thank you for your contribution!","interface.php,profile.php"
 "global","hu","str_thanks_for","Köszönet a hozzájárulásodért!","interface.php,profile.php"
 "global","ro","str_thanks_for","mulțumim că ați contribuit cu opinia","interface.php,profile.php"
