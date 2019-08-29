@@ -731,6 +731,7 @@
 "global","en","str_last_rows","last rows",
 "global","hu","str_last_rows","legutóbbi sorok",
 "global","ro","str_last_rows","ultimele rânduri",
+"global","ru","str_last_rows","последние строки",
 "global","en","str_last_modify","last modification","interface.php,results_builder.php"
 "global","hu","str_last_modify","utolsó módosítás","interface.php,results_builder.php"
 "global","ro","str_last_modify","ultima modificare","interface.php,results_builder.php"
@@ -938,7 +939,8 @@
 "global","ro","str_mouse_zoom","zoom cu roata mouseului","interface.php"
 "global","en","str_my_last_upload","my last upload",
 "global","hu","str_my_last_upload","utolsó saját feltöltésem",
-"global","ro","str_my_last_upload","my last upload",
+"global","ro","str_my_last_upload","ultima mea încărcare",
+"global","ru","str_my_last_upload","моя последняя вставка",
 "global","en","str_name","name","metaname.php,profile.php,project_admin.php"
 "global","hu","str_name","név","metaname.php,profile.php,project_admin.php"
 "global","ro","str_name","nume","metaname.php,profile.php,project_admin.php"
