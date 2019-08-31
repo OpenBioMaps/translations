@@ -2122,3 +2122,6 @@
 "global","en","str_bug_description","bug_description","upload.php"
 "global","hu","str_bug_description","hiba leírása","upload.php"
 "global","ro","str_bug_description","bug description","upload.php"
+"global","en","str_last_save","last save","upload.php"
+"global","hu","str_last_save","utolsó mentés","upload.php"
+"global","ro","str_last_save","last save","upload.php"
