@@ -2130,3 +2130,6 @@
 "global","hu","str_bookmarks","könyvjelzők","results_buttons.php"
 "global","ro","str_bookmarks","marcaje","results_buttons.php"
 "global","ru","str_bookmarks","закладки","results_buttons.php"
+"global","en","str_sql_reference","sql reference","project_admin.php"
+"global","hu","str_sql_reference","sql hivatkozás","project_admin.php"
+"global","ro","str_sql_reference","sql reference","project_admin.php"
