@@ -2133,3 +2133,6 @@
 "global","en","str_sql_reference","sql reference","project_admin.php"
 "global","hu","str_sql_reference","sql hivatkozás","project_admin.php"
 "global","ro","str_sql_reference","sql reference","project_admin.php"
+"global","en","str_you_have_new_message","you have new message","profile.php"
+"global","hu","str_you_have_new_message","új üzenetet kapott","profile.php"
+"global","ro","str_you_have_new_message","ai un mesaj nou","profile.php"
