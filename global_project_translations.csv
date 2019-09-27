@@ -2139,3 +2139,6 @@
 "global","en","str_personal_messages","personal messages","profile.php"
 "global","hu","str_personal_messages","személyes üzenetek","profile.php"
 "global","ro","str_personal_messages","mesaje personale","profile.php"
+"global","en","str_serverinfo","server info","interface.php"
+"global","hu","str_serverinfo","szerver infó","interface.php"
+"global","ro","str_serverinfo","server info","interface.php"
