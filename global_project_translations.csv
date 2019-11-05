@@ -576,7 +576,7 @@
 "global","hu","str_geom_y","Y koordináta",
 "global","ro","str_geom_y","coordonata Y",
 "global","en","str_get_coordinates_from_map","get coordinates from map","interface.php,upload_show-table-form.php"
-"global","hu","str_get_coordinates_from_map","koordiniták térképről","interface.php,upload_show-table-form.php"
+"global","hu","str_get_coordinates_from_map","koordináták térképről","interface.php,upload_show-table-form.php"
 "global","ro","str_get_coordinates_from_map","desenează geometrie pe hartă","interface.php,upload_show-table-form.php"
 "global","en","str_get_geometry_from_named_list","get geometry from named list","interface.php,upload_show-table-form.php"
 "global","hu","str_get_geometry_from_named_list","geometria listából","interface.php,upload_show-table-form.php"
@@ -930,7 +930,7 @@
 "global","en","str_most_data","most data","mainpage_sidebar3.php"
 "global","hu","str_most_data","legtöbb adat","mainpage_sidebar3.php"
 "global","ro","str_most_data","cele mai multe observații","mainpage_sidebar3.php"
-"global","en","str_most_frequent_species","most frequent specieses","common_pg_funcs.php,mainpage_sidebar2.php"
+"global","en","str_most_frequent_species","most frequent species","common_pg_funcs.php,mainpage_sidebar2.php"
 "global","hu","str_most_frequent_species","leggyakoribb fajok","common_pg_funcs.php,mainpage_sidebar2.php"
 "global","ro","str_most_frequent_species","cele mai frecvente specii","common_pg_funcs.php,mainpage_sidebar2.php"
 "global","en","str_most_uploads","most uploads","mainpage_sidebar3.php"
@@ -1240,7 +1240,7 @@
 "global","en","str_range_period","date range (without year)",
 "global","hu","str_range_period","dátum tartomány (év nélkül)",
 "global","ro","str_range_period","perioadă (fără an)",
-"global","en","str_rarest_species","rarest specieses","common_pg_funcs.php"
+"global","en","str_rarest_species","rarest species","common_pg_funcs.php"
 "global","hu","str_rarest_species","legritkább fajok","common_pg_funcs.php"
 "global","ro","str_rarest_species","cele mai rare specii","common_pg_funcs.php"
 "global","en","str_read","read",
