@@ -2142,3 +2142,6 @@
 "global","en","str_serverinfo","server info","interface.php"
 "global","hu","str_serverinfo","szerver infó","interface.php"
 "global","ro","str_serverinfo","server info","interface.php"
+"global","en","str_privileges_classes","privileges classes","interface.php"
+"global","hu","str_privileges_classes","hozzáférés osztályok","interface.php"
+"global","ro","str_privileges_classes","privileges classes","interface.php"
