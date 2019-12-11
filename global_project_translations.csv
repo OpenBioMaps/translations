@@ -2145,3 +2145,6 @@
 "global","en","str_group_privileges","group privileges","interface.php"
 "global","hu","str_group_privileges","csoport hozzáférések","interface.php"
 "global","ro","str_group_privileges","group privileges","interface.php"
+"global","en","str_hide_skips","hide skipped rows","upload_show-table-form.php"
+"global","hu","str_hide_skips","kihagyott sorok elrejtése","upload_show-table-form.php"
+"global","ro","str_hide_skips","hide skipped rows","upload_show-table-form.php"
