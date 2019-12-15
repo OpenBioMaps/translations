@@ -2148,3 +2148,6 @@
 "global","en","str_hide_skips","hide skipped rows","upload_show-table-form.php"
 "global","hu","str_hide_skips","kihagyott sorok elrejtése","upload_show-table-form.php"
 "global","ro","str_hide_skips","hide skipped rows","upload_show-table-form.php"
+"global","en","str_edit_record","edit record","data-sheet-page.php"
+"global","hu","str_edit_record","adat szerkesztése","data-sheet-page.php"
+"global","ro","str_edit_record","edit record","data-sheet-page.php"
