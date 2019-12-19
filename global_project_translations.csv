@@ -2151,3 +2151,6 @@
 "global","en","str_edit_record","edit record","data-sheet-page.php"
 "global","hu","str_edit_record","adat szerkesztése","data-sheet-page.php"
 "global","ro","str_edit_record","edit record","data-sheet-page.php"
+"global","en","str_utmzone","UTM Zone","project_admin.php"
+"global","hu","str_utmzone","UTM Zóna","project_admin.php"
+"global","ro","str_utmzone","UTM Zone","project_admin.php"
