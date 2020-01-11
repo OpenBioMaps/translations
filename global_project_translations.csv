@@ -425,6 +425,9 @@
 "global","en","str_downloadasgpx","Download results as gpx",
 "global","hu","str_downloadasgpx","Adatok letöltése gpx formátumban",
 "global","ro","str_downloadasgpx","salvează datele în format .gpx",
+"global","en","str_downloadasshp","Download results as shp",
+"global","hu","str_downloadasshp","Adatok letöltése shp formátumban",
+"global","ro","str_downloadasshp","salvează datele în format .shp",
 "global","en","str_download_full_size","download full size","upload.php"
 "global","hu","str_download_full_size","letöltés teljes méretben","upload.php"
 "global","ro","str_download_full_size","descărcare în mărimea originală","upload.php"
