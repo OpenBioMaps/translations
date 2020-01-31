@@ -2169,3 +2169,6 @@
 "global","en","str_access_denied","Access denied",""
 "global","hu","str_access_denied","Hozzáfárás visszautasítva",""
 "global","ro","str_access_denied","Access denied",""
+"global","en","str_data_access","Data access","project_admin.php"
+"global","hu","str_data_access","Adat hozzáfárás","project_admin.php"
+"global","ro","str_data_access","Data access","project_admin.php"
