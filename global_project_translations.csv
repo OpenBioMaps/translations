@@ -2196,3 +2196,6 @@
 "global","en","str_what_is_this_error","What is this error?","main.js.php"
 "global","hu","str_what_is_this_error","Mi lehet ez a hiba?","main.js.php"
 "global","ro","str_what_is_this_error","What is this error?","main.js.php"
+"global","en","str_most_probably_a_form_setting_issue","Most probably it is a form setting issue.","main.js.php"
+"global","hu","str_most_probably_a_form_setting_issue","Valószínűleg egy űrlap beállítási probléma.","main.js.php"
+"global","ro","str_most_probably_a_form_setting_issue","Most probably it is a form setting issue.","main.js.php"
