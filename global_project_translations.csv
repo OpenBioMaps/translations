@@ -2172,3 +2172,6 @@
 "global","en","str_data_access","Data access","project_admin.php"
 "global","hu","str_data_access","Adat hozzáférés","project_admin.php"
 "global","ro","str_data_access","Acces la date","project_admin.php"
+"global","en","str_drop_interrupted_uploads","Really want to drop the selected interrupted upload?<br>Users can batch-delete their own interrupted imports on profile page!","main.js.php"
+"global","hu","str_drop_interrupted_uploads","Valóban törölni akarja a kiválasztott megszakított feltöltést? A felhasználók kötegelve tudják maguknak törölni a sajátjaikat a profile lapon!","main.js.php"
+"global","ro","str_drop_interrupted_uploads","Really want to drop the selected interrupted upload?<br>Users can batch-delete their own interrupted imports on profile page!","main.js.php"
