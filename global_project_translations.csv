@@ -226,8 +226,8 @@
 "global","en","str_contains","contains",
 "global","hu","str_contains","tartalmazza",
 "global","ro","str_contains","conține",
-"global","en","str_continue_interrupted_imports","List of saved import entries. Imports can be continued or discarded here.","interface.php"
-"global","hu","str_continue_interrupted_imports","Elmentett adat importolálások listája. A listában található adatbetöltéseket innen be lehet fejezni, vagy eldobni.","interface.php"
+"global","en","str_continue_interrupted_imports","List of saved upload entries. Uploads can be continued or discarded here.","interface.php"
+"global","hu","str_continue_interrupted_imports","Elmentett adat betöltések listája. A listában található adatbetöltéseket innen be lehet fejezni, vagy eldobni.","interface.php"
 "global","ro","str_continue_interrupted_imports","Lista încărcărilor de date salvate. De aici pot fi continuate sau șterse încărcările de date salvate. ","interface.php"
 "global","en","str_contrib_partner","contributitor partners",
 "global","hu","str_contrib_partner","együttműködő partnerek",
@@ -793,7 +793,7 @@
 "global","en","str_load","load","interface.php,profile.php,project_admin.php"
 "global","hu","str_load","betölt","interface.php,profile.php,project_admin.php"
 "global","ro","str_load","încarcă","interface.php,profile.php,project_admin.php"
-"global","en","str_load_imports","interrupted imports","interface.php,profile.php,project_admin.php"
+"global","en","str_load_imports","interrupted uploads","interface.php,profile.php,project_admin.php"
 "global","hu","str_load_imports","felfüggesztett adatfeltöltések","interface.php,profile.php,project_admin.php"
 "global","ro","str_load_imports","încărcări întrerupte","interface.php,profile.php,project_admin.php"
 "global","en","str_load_orcid_profile","Load ORCID profile data","profile.php"
@@ -1729,8 +1729,8 @@
 "global","en","str_what_are_custom_geometries","What are the custom geometries?","profile.php"
 "global","hu","str_what_are_custom_geometries","Mik azok az egyéni geometriák?","profile.php"
 "global","ro","str_what_are_custom_geometries","Ce sunt geometriile preîncărcate?","profile.php"
-"global","en","str_what_are_load_imports","What are the interrupted imports?","profile.php"
-"global","hu","str_what_are_load_imports","Mik azok a felfüggesztett importok?","profile.php"
+"global","en","str_what_are_load_imports","What are the interrupted uploads?","profile.php"
+"global","hu","str_what_are_load_imports","Mik azok a felfüggesztett feltöltések?","profile.php"
 "global","ro","str_what_are_load_imports","Ce sunt încărcările întrerupte?","profile.php"
 "global","en","str_what_are_savedqueries","What are the stored queries?","profile.php"
 "global","hu","str_what_are_savedqueries","Mik azok az eltárolt lekérdezések?","profile.php"
@@ -2175,3 +2175,6 @@
 "global","en","str_drop_interrupted_uploads","Really want to drop the selected interrupted upload?<br>Users can batch-delete their own interrupted imports on profile page!","main.js.php"
 "global","hu","str_drop_interrupted_uploads","Valóban törölni akarja a kiválasztott megszakított feltöltést? A felhasználók kötegelve tudják maguknak törölni a sajátjaikat a profile lapon!","main.js.php"
 "global","ro","str_drop_interrupted_uploads","Really want to drop the selected interrupted upload?<br>Users can batch-delete their own interrupted imports on profile page!","main.js.php"
+"global","en","str_export","export","interface.php, project_admin.php"
+"global","hu","str_export","exportálás","interface.php, project_admin.php"
+"global","ro","str_export","export","interface.php project_admin.php"
