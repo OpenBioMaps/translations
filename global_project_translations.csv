@@ -2214,3 +2214,6 @@
 "global","en","str_edit_form","edit form","interface.php, project_admin.php"
 "global","hu","str_edit_form","űrlap szerkesztése","interface.php, project_admin.php"
 "global","ro","str_edit_form","editează formularul","interface.php project_admin.php"
+"global","en","str_profile_page","profile page","interface.php, profile.php"
+"global","hu","str_profile_page","profil oldal","interface.php, profile.php"
+"global","ro","str_profile_page","pagina de profil","interface.php profile.php"
