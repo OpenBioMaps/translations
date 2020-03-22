@@ -533,7 +533,7 @@
 "global","hu","str_font_size","betű méret","upload_show-table-form.php"
 "global","ro","str_font_size","mărime caractere","upload_show-table-form.php"
 "global","en","str_form","form","interface.php,project_admin.php"
-"global","hu","str_form","ürlap","interface.php,project_admin.php"
+"global","hu","str_form","űrlap","interface.php,project_admin.php"
 "global","ro","str_form","formular","interface.php,project_admin.php"
 "global","en","str_formname","form name","interface.php"
 "global","hu","str_formname","űrlap név","interface.php"
@@ -925,9 +925,9 @@
 "global","en","str_moreinfo_wms","For more information about the wms/wfs protocols follow these links","interface.php"
 "global","hu","str_moreinfo_wms","További információkért a WMS/WFS protokollokról látogassa ezeket az oldalakat","interface.php"
 "global","ro","str_moreinfo_wms","pentru informații suplimentare referitoare la protocoalele WMS/WFS, vă rugăm accesați linkurile următoare","interface.php"
-"global","en","str_morenews","minden hír","interface.php,profile.php"
-"global","hu","str_morenews","minden hír","interface.php,profile.php"
-"global","ro","str_morenews","toate știrile","interface.php,profile.php"
+"global","en","str_morenews","all news","database-summary-page.php,profile.php"
+"global","hu","str_morenews","minden hír","database-summary-page.php,profile.php"
+"global","ro","str_morenews","toate știrile","database-summary-page.php,profile.php"
 "global","en","str_more_options","more options",
 "global","hu","str_more_options","további opciók",
 "global","ro","str_more_options","mai multe opțiuni",
@@ -1344,9 +1344,10 @@
 "global","en","str_saveit","save it","profile.php"
 "global","hu","str_saveit","mentsd el","profile.php"
 "global","ro","str_saveit","salvează","profile.php"
-"global","en","str_save_options","save options",
-"global","hu","str_save_options","mentési opciók",
-"global","ro","str_save_options","opțiuni de salvare",
+"global","en","str_save_options","save options","results_builder.php"
+"global","hu","str_save_options","mentési opciók","results_builder.php"
+"global","ro","str_save_options","opțiuni de salvare","results_builder.php"
+"global","ru","str_save_options","сохранить параметры","results_builder.php"
 "global","en","str_saveqlabel","label for saved query",
 "global","hu","str_saveqlabel","cimke a lekérdezésnek",
 "global","ro","str_saveqlabel","label for saved query",
@@ -1377,6 +1378,7 @@
 "global","en","str_search","search","project_admin.php"
 "global","hu","str_search","keres","project_admin.php"
 "global","ro","str_search","caută","project_admin.php"
+"global","ru","str_search","поиск","project_admin.php"
 "global","en","str_searchmulti","search for multiple species",
 "global","hu","str_searchmulti","keresés több fajra",
 "global","ro","str_searchmulti","căutare pentru mai multe specii",
@@ -1401,6 +1403,7 @@
 "global","en","str_send","send","profile.php,upload_show-table-form.php"
 "global","hu","str_send","küld","profile.php,upload_show-table-form.php"
 "global","ro","str_send","trimite","profile.php,upload_show-table-form.php"
+"global","ru","str_send","Отправить","profile.php,upload_show-table-form.php"
 "global","en","str_sensitive","sensitive","project_admin.php"
 "global","hu","str_sensitive","érzékeny","project_admin.php"
 "global","ro","str_sensitive","sensibil","project_admin.php"
