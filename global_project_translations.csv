@@ -2272,3 +2272,6 @@
 "global","en","str_sent_messages","Sent","messenger.php"
 "global","hu","str_sent_messages","Elküldött","messenger.php"
 "global","ro","str_sent_messages","Trimise","messenger.php"
+"global","en","str_receive_system_message_mails","Receive system messages","messenger.php"
+"global","hu","str_receive_system_message_mails","Rendszer üzenetek fogadása","messenger.php"
+"global","ro","str_receive_system_message_mails","Primiți mesaje de sistem","messenger.php"
