@@ -2298,3 +2298,6 @@
 "global","en","str_documentation","documentation","header.php.inc,upload.php"
 "global","hu","str_documentation","dokumentáció","header.php.inc,upload.php"
 "global","ro","str_documentation","documentație","header.php.inc,upload.php"
+"global","en","str_own_uploads","own uploads","upload.php"
+"global","hu","str_own_uploads","saját feltöltések","upload.php"
+"global","ro","str_own_uploads","încărcări proprii","upload.php"
