@@ -430,6 +430,9 @@
 "global","en","str_downloadasshp","Download results as shp",
 "global","hu","str_downloadasshp","Adatok letöltése shp formátumban",
 "global","ro","str_downloadasshp","salvează datele în format .shp",
+"global","en","str_downloadaskml","Download results as kml",
+"global","hu","str_downloadaskml","Adatok letöltése kml formátumban",
+"global","ro","str_downloadaskml","salvează datele în format .kml",
 "global","en","str_download_full_size","download full size","upload.php"
 "global","hu","str_download_full_size","letöltés teljes méretben","upload.php"
 "global","ro","str_download_full_size","descărcare în mărimea originală","upload.php"
