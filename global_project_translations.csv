@@ -61,7 +61,7 @@
 "global","en","str_all_names","load all names","afuncs.php"
 "global","hu","str_all_names","összes név betöltése","afuncs.php"
 "global","ro","str_all_names","încărcarea tuturor numelor","afuncs.php"
-"global","en","str_already_activated_link","If you already activated your profile follow this link to check your profile page.","common_pg_funcs.php"
+"global","en","str_already_activated_link","If you already activated your profile this link to check your profile page.","common_pg_funcs.php"
 "global","hu","str_already_activated_link","Ha már aktiválta a fiókját, kövesse a következő linket a profil oldalára","common_pg_funcs.php"
 "global","ro","str_already_activated_link","Dacă ați activat deja contul urmăriți acest link în vederea verificării paginii de profil","common_pg_funcs.php"
 "global","en","str_alt_name","alternative name","common_pg_funcs.php,project_admin.php"
@@ -307,9 +307,9 @@
 "global","en","str_data_query","data query","mainpage_footer.php"
 "global","hu","str_data_query","adat lekérdezés","mainpage_footer.php"
 "global","ro","str_data_query","interogare date","mainpage_footer.php"
-"global","en","str_datasheet","datasheet",
-"global","hu","str_datasheet","adatlap",
-"global","ro","str_datasheet","datasheet",
+"global","en","str_datasheet","datasheet","evaluation.php"
+"global","hu","str_datasheet","adatlap","evaluation.php"
+"global","ro","str_datasheet","datasheet","evaluation.php"
 "global","en","str_data_summary","data summary","interface.php"
 "global","hu","str_data_summary","adat összefoglaló","interface.php"
 "global","ro","str_data_summary","sumar de date","interface.php"
@@ -1625,9 +1625,9 @@
 "global","en","str_update","update","project_admin.php,upload_show-table-form.php"
 "global","hu","str_update","frissít","project_admin.php,upload_show-table-form.php"
 "global","ro","str_update","actualizează","project_admin.php,upload_show-table-form.php"
-"global","en","str_uphist","Uploading history",
-"global","hu","str_uphist","Adatfeltöltés története",
-"global","ro","str_uphist","istoric încărcare de date",
+"global","en","str_uphist","Uploading history","evaluation.php"
+"global","hu","str_uphist","Adatfeltöltés története","evaluation.php"
+"global","ro","str_uphist","istoric încărcare de date","evaluation.php"
 "global","en","str_upldesc","uploading list","interface.php"
 "global","hu","str_upldesc","feltöltés listája","interface.php"
 "global","ro","str_upldesc","acesta este lista încărcărilor utilizatorului","interface.php"
