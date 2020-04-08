@@ -1346,25 +1346,25 @@
 "global","en","str_saveit","save it","profile.php"
 "global","hu","str_saveit","mentsd el","profile.php"
 "global","ro","str_saveit","salvează","profile.php"
+"global","en","str_savequeryquestion","You have an unsaved query in the session. Are you saving it now?",
+"global","hu","str_savequeryquestion","Mentetlen lekérdezése van a munkamenetben. Elmenti most?",
+"global","ro","str_savequeryquestion","Aveți o căutare avansată nesalvată. Salvați acum?",
 "global","en","str_save_options","save options","results_builder.php"
 "global","hu","str_save_options","mentési opciók","results_builder.php"
 "global","ro","str_save_options","opțiuni de salvare","results_builder.php"
 "global","ru","str_save_options","сохранить параметры","results_builder.php"
-"global","en","str_saveqlabel","bookmark label",
-"global","hu","str_saveqlabel","könyvjelző címke",
-"global","ro","str_saveqlabel","eticheta de marcaj",
-"global","en","str_savequery","add the query to your bookmarks",
-"global","hu","str_savequery","lekérdezés hozzáadása a könyvjelzőkhöz",
-"global","ro","str_savequery","adăugați interogarea la marcajele dvs.",
-"global","en","str_savequeryquestion","You have an unsaved query in the session. Are you saving it now?",
-"global","hu","str_savequeryquestion","Mentetlen lekérdezése van a munkamenetben. Elmenti most?",
-"global","ro","str_savequeryquestion","Aveți o căutare avansată nesalvată. Salvați acum?",
-"global","en","str_savequery_results","storing the result of the query",
-"global","hu","str_savequery_results","a lekérdezés eredményének eltárolása",
-"global","ro","str_savequery_results","stocarea rezultatului interogării",
-"global","en","str_save_selection","save spatial selection",
-"global","hu","str_save_selection","térbeli szelekció elmentése",
-"global","ro","str_save_selection","salvare interogare spațială",
+"global","en","str_saveqlabel","bookmark label","results_buttons.php"
+"global","hu","str_saveqlabel","könyvjelző címke","results_buttons.php"
+"global","ro","str_saveqlabel","eticheta de marcaj","results_buttons.php"
+"global","en","str_savequery","add the query to your bookmarks","results_buttons.php"
+"global","hu","str_savequery","lekérdezés hozzáadása a könyvjelzőkhöz","results_buttons.php"
+"global","ro","str_savequery","adăugați interogarea la marcajele dvs.","results_buttons.php"
+"global","en","str_savequery_results","storing the result of the query","results_buttons.php"
+"global","hu","str_savequery_results","a lekérdezés eredményének eltárolása","results_buttons.php"
+"global","ro","str_savequery_results","stocarea rezultatului interogării","results_buttons.php"
+"global","en","str_save_selection","add spatial selection to bookmarks","results_buttons.php"
+"global","hu","str_save_selection","térbeli szelekció hozzáadása a könyvjelzőkhöz","results_buttons.php"
+"global","ro","str_save_selection","adăugați selecția spațială la marcaje","results_buttons.php"
 "global","en","str_save_seleted_items","save selected items","interface.php"
 "global","hu","str_save_seleted_items","kiválasztott elemek mentése","interface.php"
 "global","ro","str_save_seleted_items","salvează obiectele selectate","interface.php"
