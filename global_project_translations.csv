@@ -1349,9 +1349,9 @@
 "global","en","str_savequeryquestion","You have an unsaved query in the session. Are you saving it now?",
 "global","hu","str_savequeryquestion","Mentetlen lekérdezése van a munkamenetben. Elmenti most?",
 "global","ro","str_savequeryquestion","Aveți o căutare avansată nesalvată. Salvați acum?",
-"global","en","str_save_options","save options","results_builder.php"
-"global","hu","str_save_options","mentési opciók","results_builder.php"
-"global","ro","str_save_options","opțiuni de salvare","results_builder.php"
+"global","en","str_save_options","Save, share & bookmarks","results_builder.php"
+"global","hu","str_save_options","Mentés, megosztás és könyvjelzők ","results_builder.php"
+"global","ro","str_save_options","Salvați, partajați și marcaje","results_builder.php"
 "global","ru","str_save_options","сохранить параметры","results_builder.php"
 "global","en","str_saveqlabel","bookmark label","results_buttons.php"
 "global","hu","str_saveqlabel","könyvjelző címke","results_buttons.php"
