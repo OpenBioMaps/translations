@@ -2256,4 +2256,6 @@
 "global","en","str_template_editor","Message templates","common_pg_funcs.php"
 "global","ro","str_template_editor","Șabloane mesaje","common_pg_funcs.php"
 "global","hu","str_template_editor","Üzenet sablonok","common_pg_funcs.php"
-
+"global","en","str_request_invitation_help","An invitation is required to sign up. You can request an invitation from the database administrator by filling in the form bellow.","common_pg_funcs.php"
+"global","ro","str_request_invitation_help","Înregistrarea se face pe bază de invitație. Poți solicita invitația administratorului bazei de date completând formularul de mai jos.","common_pg_funcs.php"
+"global","hu","str_request_invitation_help","A regisztrációhoz meghívásra van szükség. Meghívót igényelhet az adatbázis kezelőjétől, az alábbi űrlap kitöltésével.","common_pg_funcs.php"
