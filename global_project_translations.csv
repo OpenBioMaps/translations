@@ -54,7 +54,7 @@
 "global","ro","str_agree_and_continue","acceptă și continuă","common_pg_funcs.php"
 "global","en","str_agree_new_terms","To continue using OpenBioMaps, you will need to agree to the updated <a class=""termsText"" href="""" data-target=""privacy"">Privacy Policy</a>, and <a class=""termsText"" href="""" data-target=""terms"">Terms and Conditions</a>.","common_pg_funcs.php"
 "global","hu","str_agree_new_terms","Az OpenBioMaps további használatához, egyet kell értsen a módosított <a class=""termsText"" href="""" data-target=""privacy"">Adatvédelmi Szabályzattal</a> és a <a class=""termsText"" href="""" data-target=""terms"">Felhasználói Szabályokkal</a>.","common_pg_funcs.php"
-"global","ro","str_agree_new_terms","Pentru continuarea utilizării OpenBirdMaps, va trebui să acceptați  <a class=""termsText"" href="""" data-target=""privacy"">Politica de confidență</a> și <a class=""termsText"" href="""" data-target=""terms"">Termenii și condițiile de utilizare</a>.","common_pg_funcs.php"
+"global","ro","str_agree_new_terms","Pentru continuarea utilizării OpenBirdMaps, va trebui să acceptați  <a class=""termsText"" href="""" data-target=""privacy"">Politica de confidențialitate</a> și <a class=""termsText"" href="""" data-target=""terms"">Termenii și condițiile de utilizare</a>.","common_pg_funcs.php"
 "global","en","str_all_match","all names belonging to the selected species","project_admin.php"
 "global","hu","str_all_match","összes névre ami a kiválasztott fajhoz tartozik","project_admin.php"
 "global","ro","str_all_match","toate numele care aparțin speciei selectate","project_admin.php"
@@ -1096,7 +1096,7 @@
 "global","ro","str_point","punct","project_admin.php,upload_show-table-form.php"
 "global","en","str_policy_agree_info",,"common_pg_funcs.php"
 "global","hu","str_policy_agree_info",,"common_pg_funcs.php"
-"global","ro","str_policy_agree_info","În vederea îmbunătățirii transparenței și operarea mai corectă a datelor cu caracter personal, OpenBioMaps a schimbat <a class=""termsText"" href="""" data-target=""privacy"">Politica de confidență</a> , <a class=""termsText"" href="""" data-target=""terms"">Termenii și condițiile de utilizare</a> și <a class=""termsText"" href="""" data-target=""cookies"">Politica de cookie-uri</a>.","common_pg_funcs.php"
+"global","ro","str_policy_agree_info","În vederea îmbunătățirii transparenței și operarea mai corectă a datelor cu caracter personal, OpenBioMaps a schimbat <a class=""termsText"" href="""" data-target=""privacy"">Politica de confidențialitate</a> , <a class=""termsText"" href="""" data-target=""terms"">Termenii și condițiile de utilizare</a> și <a class=""termsText"" href="""" data-target=""cookies"">Politica de cookie-uri</a>.","common_pg_funcs.php"
 "global","en","str_polygon","polygon","profile.php,project_admin.php,upload_show-table-form.php"
 "global","hu","str_polygon","poligon","profile.php,project_admin.php,upload_show-table-form.php"
 "global","ro","str_polygon","poligon","profile.php,project_admin.php,upload_show-table-form.php"
@@ -1112,13 +1112,13 @@
 "global","ro","str_preparation_of_results","Pregătirea rezultatelor","main.js.php"
 "global","en","str_privacy_policy","privacy",
 "global","hu","str_privacy_policy","adatkezelés",
-"global","ro","str_privacy_policy","politica de confidență",
+"global","ro","str_privacy_policy","politica de confidențialitate",
 "global","en","str_private","private","common_pg_funcs.php,interface.php,project_admin.php"
 "global","hu","str_private","privát","common_pg_funcs.php,interface.php,project_admin.php"
 "global","ro","str_private","privat","common_pg_funcs.php,interface.php,project_admin.php"
 "global","en","str_private_policy_info","Privacy policy and protecting","common_pg_funcs.php"
 "global","hu","str_private_policy_info","A személyes adatok kezelése és védelme","common_pg_funcs.php"
-"global","ro","str_private_policy_info","Politica de confidență, Termeni și condiții de utilizare, Politica de cookie-uri","common_pg_funcs.php"
+"global","ro","str_private_policy_info","Politica de confidențialitate, Termeni și condiții de utilizare, Politica de cookie-uri","common_pg_funcs.php"
 "global","en","str_processing_query","Processing the query","main.js.php"
 "global","hu","str_processing_query","A lekérdezés feldolgozása","main.js.php"
 "global","ro","str_processing_query","Procesarea interogării","main.js.php"
