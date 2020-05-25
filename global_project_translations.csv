@@ -661,6 +661,9 @@
 "global","en","str_inv_code","Invitation code",
 "global","hu","str_inv_code","Meghívó kód",
 "global","ro","str_inv_code","cod invitație",
+"global","en","str_request_invitation_help","An invitation is required to sign up. You can request an invitation from the database administrator by filling in the form bellow.","common_pg_funcs.php"
+"global","ro","str_request_invitation_help","Înregistrarea se face pe bază de invitație. Poți solicita invitația administratorului bazei de date completând formularul de mai jos.","common_pg_funcs.php"
+"global","hu","str_request_invitation_help","A regisztrációhoz meghívásra van szükség. Meghívót igényelhet az adatbázis kezelőjétől, az alábbi űrlap kitöltésével.","common_pg_funcs.php"
 "global","en","str_invitate","An invitation  is required to sign up. Only <a href=""?database#members"">members</a> can send invitations. The registration and the database usage are free. For further assistance, please contact the database  <a href=""?database#maintainers"">maintainers</a> or its <a href=""?database#founder"">founder</a>.",
 "global","hu","str_invitate","A regisztrációhoz meghívásra van szükség. Csak <a href=""?database#members"">tagok</a> küldhetnek meghívókat. A regisztráció és az adatbázis használata ingyenes. További segítségért kérjük, lépjen kapcsolatba az adatbázis <a href=""?database#maintainers"">üzemeltetőivel</a> vagy az <a href=""?database#founder"">alapítójával</a>.",
 "global","ro","str_invitate","Înregistrarea la baza de date se face pe bază de invitație. Invitație poate fi trimisă de oricare <a href=""?database#members"">membru</a> a bazei de date. Înregistrarea și folosirea bazei de date este gratuită. Pentru asistență vă rugăm contactați <a href=""?database#maintainers"">administratorii</a>.",""
@@ -2253,9 +2256,6 @@
 "global","en","str_template_editor","Message templates","common_pg_funcs.php"
 "global","ro","str_template_editor","Șabloane mesaje","common_pg_funcs.php"
 "global","hu","str_template_editor","Üzenet sablonok","common_pg_funcs.php"
-"global","en","str_request_invitation_help","An invitation is required to sign up. You can request an invitation from the database administrator by filling in the form bellow.","common_pg_funcs.php"
-"global","ro","str_request_invitation_help","Înregistrarea se face pe bază de invitație. Poți solicita invitația administratorului bazei de date completând formularul de mai jos.","common_pg_funcs.php"
-"global","hu","str_request_invitation_help","A regisztrációhoz meghívásra van szükség. Meghívót igényelhet az adatbázis kezelőjétől, az alábbi űrlap kitöltésével.","common_pg_funcs.php"
 "global","en","str_dataid_does_not_exists","This data id does not exist","data_sheet_page.php, data_history_page.php"
 "global","ro","str_dataid_does_not_exists","Acest id de înregistrare nu există","data_sheet_page.php, data_history_page.php"
 "global","hu","str_dataid_does_not_exists","Ez a rekord azonosító nem létezik","data_sheet_page.php, data_history_page.php"
@@ -2265,3 +2265,6 @@
 "global","en","str_retype_the_characters_from_the_picture","Retype characters from the picture","common_pg_funcs.php"
 "global","ro","str_retype_the_characters_from_the_picture","Retype characters from the picture","common_pg_funcs.php"
 "global","hu","str_retype_the_characters_from_the_picture","Gépelje be a karaktereket a képről","common_pg_funcs.php"
+"global","en","str_captcha_does_not_match","The captcha does not match the retyped text","common_pg_funcs.php"
+"global","ro","str_captcha_does_not_match","The captcha does not match the retyped text","common_pg_funcs.php"
+"global","hu","str_captcha_does_not_match","A captcha nem felel meg az újraírt szövegnek","common_pg_funcs.php"
