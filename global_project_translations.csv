@@ -2262,3 +2262,6 @@
 "global","en","str_this_record_is_not_available","This record does not available","data_sheet_page.php, data_history_page.php"
 "global","ro","str_this_record_is_not_available","Această înregistrare nu este disponibilă","data_sheet_page.php, data_history_page.php"
 "global","hu","str_this_record_is_not_available","Ez a rekord nem hozzáférhető","data_sheet_page.php, data_history_page.php"
+"global","en","str_retype_the_characters_from_the_picture","Retype characters from the picture","common_pg_funcs.php"
+"global","ro","str_retype_the_characters_from_the_picture","Retype characters from the picture","common_pg_funcs.php"
+"global","hu","str_retype_the_characters_from_the_picture","Gépelje be a karaktereket a képről","common_pg_funcs.php"
