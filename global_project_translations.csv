@@ -2040,7 +2040,7 @@
 "global","ru","str_reset_map","перезагрузить карту","map-page.php"
 "global","en","str_clear_filters","clear filters","map-page.php"
 "global","hu","str_clear_filters","szűrők kiürítése","map-page.php"
-"global","ro","str_clear_filters","filtre clare","map-page.php"
+"global","ro","str_clear_filters","resetare filtre","map-page.php"
 "global","ru","str_clear_filters","очистить фильтры","map-page.php"
 "global","en","str_unlink_file_from_data","unlink file from data","photos.php"
 "global","hu","str_unlink_file_from_data","unlink file from data","photos.php"
