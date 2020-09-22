@@ -2283,3 +2283,6 @@
 "global","en","str_jobs","jobs","project_admin/jobs.php"
 "global","ro","str_jobs","jobs","project_admin/jobs.php"
 "global","hu","str_jobs","háttér folyamataok","project_admin/jobs.php"
+"global","en","str_job_management","job management","project_admin/jobs.php"
+"global","ro","str_job_management","job management","project_admin/jobs.php"
+"global","hu","str_job_management","háttér folyamatok kezelése","project_admin/jobs.php"
