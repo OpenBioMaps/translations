@@ -2280,3 +2280,6 @@
 "global","en","str_report_an_error","Report an error","index.php"
 "global","ro","str_report_an_error","Report an error","index.php"
 "global","hu","str_report_an_error","Hiba bejelentés","index.php"
+"global","en","str_jobs","jobs","project_admin/jobs.php"
+"global","ro","str_jobs","jobs","project_admin/jobs.php"
+"global","hu","str_jobs","háttér folyamataok","project_admin/jobs.php"
