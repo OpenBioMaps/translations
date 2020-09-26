@@ -2286,3 +2286,6 @@
 "global","en","str_job_management","job management","project_admin/jobs.php"
 "global","ro","str_job_management","job management","project_admin/jobs.php"
 "global","hu","str_job_management","háttér folyamatok kezelése","project_admin/jobs.php"
+"global","en","str_refresh","refresh","project_admin.php"
+"global","ro","str_refresh","refresh","project_admin.php"
+"global","hu","str_refresh","frissít","project_admin.php"
