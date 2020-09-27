@@ -2289,3 +2289,6 @@
 "global","en","str_refresh","refresh","project_admin.php"
 "global","ro","str_refresh","refresh","project_admin.php"
 "global","hu","str_refresh","frissít","project_admin.php"
+"global","en","str_results","results","project_admin.php"
+"global","ro","str_results","results","project_admin.php"
+"global","hu","str_results","eredmények","project_admin.php"
