@@ -1270,7 +1270,7 @@
 "global","ro","str_romanian","română","profile.php"
 "global","en","str_rom_name","Romanian name",
 "global","hu","str_rom_name","Román név",
-"global","ro","str_rom_name","denumire românească",
+"global","ro","str_rom_name","denumire populară",
 "global","en","str_row","row","interface.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload_show-table-form.php"
 "global","hu","str_row","sor","interface.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload_show-table-form.php"
 "global","ro","str_row","rând","interface.php,mainpage_sidebar2.php,profile.php,project_admin.php,results_builder.php,upload_funcs.php,upload_show-table-form.php"
@@ -2298,12 +2298,6 @@
 "global","en","str_select_species_name_type","Which species name type would you like to use?","profile.php"
 "global","ro","str_select_species_name_type","Care variantă a denumirilor de specii doriți să utilizați?","profile.php"
 "global","hu","str_select_species_name_type","A faj nevek melyik változatát szeretné használni?","profile.php"
-"global","en","str_species_hu","Hungarian name","profile.php"
-"global","ro","str_species_hu","Denumire maghiară","profile.php"
-"global","hu","str_species_hu","Magyar név","profile.php"
 "global","hu","str_species_en","Angol név","profile.php"
 "global","ro","str_species_en","Denumire engleză","profile.php"
 "global","en","str_species_en","English name","profile.php"
-"global","en","str_species_ro","Romanian name","profile.php"
-"global","ro","str_species_ro","Denumire populară","profile.php"
-"global","hu","str_species_ro","Román név","profile.php"
