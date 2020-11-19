@@ -2304,3 +2304,6 @@
 "global","hu","str_force","kényszerítetten","project_admin/upload_forms.php"
 "global","ro","str_force","cu forţa","project_admin/upload_forms.php"
 "global","en","str_force","force","project_admin/upload_forms.php"
+"global","hu","str_order_of_results","Eredmények rendezése", "modules/taxon_meta.php"
+"global","ro","str_order_of_results","Ordinea rezultatelor", "modules/taxon_meta.php"
+"global","en","str_order_of_results","Order of results", "modules/taxon_meta.php"
