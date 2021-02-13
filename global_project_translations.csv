@@ -2325,3 +2325,6 @@
 "global","hu","str_invalid_filename_alert","A csatolmányok neveiben csak alfanumerikus karakterek, alulvonás (_), kötőjel (-) és pont (.) szerepelhet. Elfogadja az alábbi fájl(ok) átnevezését?","modules/photos.php"
 "global","en","str_invalid_filename_alert","The filenames of the attachments must not contain other then alphanumeric characters, underscore (_), hyphen (-) and dot (.). Do you accept renaming the following file(s)?","modules/photos.php"
 "global","ro","str_invalid_filename_alert","Denumirile fișierelor atașate nu poate să conțină decât caractere alfanumerice și/sau următoarele simboluri: (_), (-) și (.). Acceptați redenumirea automată a fișierelor?","modules/photos.php"
+"global","hu","str_metadata","metaadatok","interface.php"
+"global","en","str_metadata","metadata","interface.php"
+"global","ro","str_metadata","metadate","interface.php"
