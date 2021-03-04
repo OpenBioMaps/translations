@@ -115,9 +115,6 @@
 "global","en","str_beta_text","This database is under development and is not yet accepted in OpenBioMaps. This is a temporary state!","interface.php"
 "global","hu","str_beta_text","Ez az adatbázis fejlesztés alatt van, nincs még az OpenBioMaps rendszerbe befogadva. Ez egy ideiglenes állapot!","interface.php"
 "global","ro","str_beta_text","Această bază de date este sub construcție sau nu este în forma finală. Nu este încă o bază de date acomodată în sistemul OpenBio Maps. Acesta este un stadiu temporar al bazei de date.","interface.php"
-"global","en","str_biomds","Open Biotic Map and Database Services",
-"global","hu","str_biomds","Nyitott biotikai térkép és adatbázis szolgáltatások",
-"global","ro","str_biomds","servicii de hărți și baze de date biotice deschise",
 "global","en","str_black","black",
 "global","hu","str_black","fekete",
 "global","ro","str_black","negru",
@@ -319,19 +316,15 @@
 "global","en","str_datum_filter","date filters",
 "global","hu","str_datum_filter","dátum szűrők",
 "global","ro","str_datum_filter","filtru dată",
-"global","en","str_db","database","interface.php,profile.php,project_admin.php"
-"global","hu","str_db","adatbázis","interface.php,profile.php,project_admin.php"
-"global","ro","str_db","bază de date","interface.php,profile.php,project_admin.php"
+"global","en","str_table_management","database table management","interface.php,profile.php,project_admin.php"
+"global","hu","str_table_management","adatbázis tábla kezelés","interface.php,profile.php,project_admin.php"
+"global","ro","str_table_management","database table management","interface.php,profile.php,project_admin.php"
 "global","en","str_db_cols","database columns","interface.php,project_admin.php"
 "global","hu","str_db_cols","adatbázis oszlopok","interface.php,project_admin.php"
 "global","ro","str_db_cols","coloane bază de date","interface.php,project_admin.php"
 "global","en","str_db_download","download database","interface.php"
 "global","hu","str_db_download","adatbázis letöltése","interface.php"
 "global","ro","str_db_download","descărcare bază de date","interface.php"
-"global","en","str_dbs","other databases","upload.php,header.php.inc"
-"global","hu","str_dbs","más adatbázisok","upload.php,header.php.inc"
-"global","ro","str_dbs","alte baze de date","upload.php,header.php.inc"
-"global","ru","str_dbs","другие базы данных","upload.php,header.php.inc"
 "global","en","str_db_summary","database summary","interface.php,upload.php,header.php.inc"
 "global","hu","str_db_summary","adatbázis összefoglaló","interface.php,upload.php,header.php.inc"
 "global","ro","str_db_summary","sumar bază de date","interface.php,upload.php,header.php.inc"
@@ -926,9 +919,9 @@
 "global","en","str_name_dist","distance",
 "global","hu","str_name_dist","távolság",
 "global","ro","str_name_dist","distanță",
-"global","en","str_nameofproject","name of the database","profile.php"
-"global","hu","str_nameofproject","adatbázis neve","profile.php"
-"global","ro","str_nameofproject","nume proiect","profile.php"
+"global","en","str_nameofproject","The name of the project","profile.php"
+"global","hu","str_nameofproject","A projekt neve","profile.php"
+"global","ro","str_nameofproject","Nume proiect","profile.php"
 "global","en","str_name_status","name status","metaname.php"
 "global","hu","str_name_status","név státusz","metaname.php"
 "global","ro","str_name_status","statut denumire","metaname.php"
@@ -1049,9 +1042,10 @@
 "global","en","str_orcid_profile","ORCID profile","profile.php"
 "global","hu","str_orcid_profile","ORCID profil","profile.php"
 "global","ro","str_orcid_profile","profil ORCID","profile.php"
-"global","en","str_other_databases","other databases","profile.php"
-"global","hu","str_other_databases","más adatbázisok","profile.php"
-"global","ro","str_other_databases","alte baze de date","profile.php"
+"global","en","str_other_databases","other databases","profile.php,upload.php,header.php.inc"
+"global","hu","str_other_databases","más adatbázisok","profile.php,upload.php,header.php.inc"
+"global","ro","str_other_databases","alte baze de date","profile.php,upload.php,header.php.inc"
+"global","ru","str_other_databases","другие базы данных","profile.php,upload.php,header.php.inc"
 "global","en","str_other_filters","other filters",
 "global","hu","str_other_filters","egyéb szűrők",
 "global","ro","str_other_filters","alte filtre",
@@ -1196,7 +1190,7 @@
 "global","ro","str_query_by_id","query by id","metaname.php"
 "global","en","str_query_definitions","SQL query settings","interface.php,project_admin.php"
 "global","hu","str_query_definitions","SQL lekérdezés beállítások","interface.php,project_admin.php"
-"global","ro","str_query_definitions","setări interogare sql","interface.php,project_admin.php"
+"global","ro","str_query_definitions","setări interogare SQL","interface.php,project_admin.php"
 "global","en","str_query_set","Database query set",
 "global","hu","str_query_set","Adatbázis lekérdezés összeállítása",
 "global","ro","str_query_set","creare interogare",
@@ -2328,3 +2322,9 @@
 "global","hu","str_metadata","metaadatok","interface.php"
 "global","en","str_metadata","metadata","interface.php"
 "global","ro","str_metadata","metadate","interface.php"
+"global","hu","str_sql_tables","SQL táblák","project_admin.php"
+"global","en","str_sql_tables","SQL tables","project_admin.php"
+"global","ro","str_sql_tables","SQL tables","project_admin.php"
+"global","hu","str_sql_access","SQL hozzáférés","project_admin.php"
+"global","en","str_sql_access","SQL access","project_admin.php"
+"global","ro","str_sql_access","SQL access","project_admin.php"
