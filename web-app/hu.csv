@@ -15,7 +15,7 @@
 "str_administration","adminisztráció"
 "str_administrator","intéző"
 "str_agree_and_continue","egyetértek és folytatom"
-"str_agree_new_terms","Az OpenBioMaps további használatához
+"str_agree_new_terms","Az OpenBioMaps további használatához"
 "str_all_match","összes névre ami a kiválasztott fajhoz tartozik"
 "str_all_names","összes név betöltése"
 "str_alt_name","nemzeti név"
@@ -35,7 +35,7 @@
 "str_available_for","elérhetőség"
 "str_avoid","óvakodjál"
 "str_ban","tilt"
-"str_beta_text","Ez az adatbázis fejlesztés alatt van
+"str_beta_text","Ez az adatbázis fejlesztés alatt van"
 "str_black","fekete"
 "str_blue","kék"
 "str_boolen","igaz/hamis"
@@ -59,10 +59,10 @@
 "str_comments","megjegyzések"
 "str_common_name","közönséges név"
 "str_confirm","megerősít"
-"str_confirmation_email_sending_failed","Sajnáljuk
-"str_confirmation_email_sent","Megerősítő email elküldve! Kérjük
-"str_confirmation_no","Nem
-"str_confirmation_yes","Igen
+"str_confirmation_email_sending_failed","Sajnáljuk"
+"str_confirmation_email_sent","Megerősítő email elküldve! Kérjük"
+"str_confirmation_no","Nem"
+"str_confirmation_yes","Igen"
 "str_conf_necessary","a módosításhoz megerősítés szükséges"
 "str_connectionerror","Sikertelen csatlakozás az adatbázishoz"
 "str_connections","kapcsolatok"
@@ -70,7 +70,7 @@
 "str_constraints","megszorítások"
 "str_contact","kapcsolat"
 "str_contains","tartalmazza"
-"str_continue_interrupted_imports","Elmentett adat betöltések listája. A listában található adatbetöltéseket innen be lehet fejezni
+"str_continue_interrupted_imports","Elmentett adat betöltések listája. A listában található adatbetöltéseket innen be lehet fejezni"
 "str_contrib_partner","együttműködő partnerek"
 "str_control","kontrol"
 "str_cookies","cookies"
@@ -124,7 +124,7 @@
 "str_dinpi","Duna-Ipoly Nemzeti Park Igazgatóság"
 "str_discl","Jogi nyilatkozat"
 "str_disjoint","kivűl esik"
-"str_dist_explan","Sztring távolság érték
+"str_dist_explan","Sztring távolság érték"
 "str_dnlike","nem jó!"
 "str_domain","domain"
 "str_done","kész"
@@ -197,7 +197,7 @@
 "str_hungarian","Magyar"
 "str_hun_name","Magyar név"
 "str_identify","azonosít"
-"str_if_defined_xy","Ha meg vannak adva koordináták vagy ilyenek: [[1
+"str_if_defined_xy","Ha meg vannak adva koordináták vagy ilyenek: [[1"
 "str_iflogin","Ha be lenne jelentkezve eltárolhatná a lekérdezést vagy letölthetné az eredményeket."
 "str_import","importálás"
 "str_import_data","adatok feltöltése"
@@ -214,12 +214,12 @@
 "str_in_the","a"
 "str_inthisquerythefollowing","A lekérdezésben az alábbi gyüjtők és adatközlők adatai szerepelnek"
 "str_inv_code","Meghívó kód"
-"str_request_invitation_help","A regisztrációhoz meghívásra van szükség. Meghívót igényelhet az adatbázis kezelőjétől
-"str_invitate","A regisztrációhoz meghívásra van szükség. Csak <a href=""?database#members"">tagok</a> küldhetnek meghívókat. A regisztráció és az adatbázis használata ingyenes. További segítségért kérjük
-"str_invitation_success_but_use_your_existing_account_to_login","GRATULÁLUNK! Csatlakozott a %PROJECTTABLE% adatbázishoz! Figyelem
+"str_request_invitation_help","A regisztrációhoz meghívásra van szükség. Meghívót igényelhet az adatbázis kezelőjétől"
+"str_invitate","A regisztrációhoz meghívásra van szükség. Csak <a href=""?database#members"">tagok</a> küldhetnek meghívókat. A regisztráció és az adatbázis használata ingyenes. További segítségért kérjük"
+"str_invitation_success_but_use_your_existing_account_to_login","GRATULÁLUNK! Csatlakozott a %PROJECTTABLE% adatbázishoz! Figyelem"
 "str_invites","meghívások"
 "str_italian","Olasz"
-"str_itisalready_evaluated","ezt már értékelte az előbb
+"str_itisalready_evaluated","ezt már értékelte az előbb"
 "str_join","összekapcsol"
 "str_disjoin","szétkapcsol"
 "str_jump","ugorj"
@@ -319,7 +319,7 @@
 "str_no_results_for_the_query","Nincs eredménye a lekérdezésnek"
 "str_no_such_mail_address","Nincs ilyen email cím"
 "str_no_such_user","nem jó felhasználónév vagy jelszó"
-"str_no_thanks","Nem
+"str_no_thanks","Nem"
 "str_nothing_happend","semmi sem változott"
 "str_not_valid","nincs validálva"
 "str_np","Nemzeti park"
@@ -349,14 +349,14 @@
 "str_paddress","cím"
 "str_page","oldal"
 "str_password","Jelszó"
-"str_password_expired","A jelszó lejárt
+"str_password_expired","A jelszó lejárt"
 "str_pending","függő"
 "str_photo_id","fotó azonosító"
 "str_photos","fotók"
 "str_pink","rózsaszín"
 "str_plogin","Előbb be kell jelentkezni!"
 "str_point","pont"
-"str_policy_agree_info",
+"str_policy_agree_info",""
 "str_polygon","poligon"
 "str_polygon_settings","egyéni geometriák kezelése"
 "str_position","pozició"
@@ -425,7 +425,7 @@
 "str_savedresults","elmentett eredmények"
 "str_saveit","mentsd el"
 "str_savequeryquestion","Mentetlen lekérdezése van a munkamenetben. Elmenti most?"
-"str_save_options","Mentés
+"str_save_options","Mentés"
 "str_saveqlabel","könyvjelző címke"
 "str_savequery","lekérdezés hozzáadása a könyvjelzőkhöz"
 "str_savequery_results","a lekérdezés eredményének eltárolása"
@@ -466,8 +466,8 @@
 "str_skip_marked_rows","Kihagyásra jelölt sorok vannak a táblázatban!"
 "str_smpl_p","Mintavételi hely"
 "str_soft_error","puha hiba"
-"str_some_errors","Néhány hiba van! Hagyd ki az érintett sorokat
-"str_some_warnings","Figyelem! Javítsd
+"str_some_errors","Néhány hiba van! Hagyd ki az érintett sorokat"
+"str_some_warnings","Figyelem! Javítsd"
 "str_spatial_geometry","térbeli geomatria"
 "str_spatial_relationship","térbeli kapcsolat"
 "str_species","faj"
@@ -499,7 +499,7 @@
 "str_text","szöveg"
 "str_text_filters","szöveges szűrők"
 "str_thanks_for","Köszönet a hozzájárulásodért!"
-"str_thx_for_opinion","köszönjük
+"str_thx_for_opinion","köszönjük"
 "str_time","idő"
 "str_time_interval","idő intervallum"
 "str_time_to_minutes","idő percekben"
@@ -556,10 +556,10 @@
 "str_write","írás"
 "str_yellow","sárga"
 "str_yes","igen"
-"str_yes_i_want","Igen
+"str_yes_i_want","Igen"
 "str_you_have_connected_to_a_stranger_database","egy idegen adatbázishoz csatlakoztál"
 "str_your_opinion","az ön észrevételei és véleménye"
-"str_new_project_welcome","Új adatbázis projektet bárki alapíthat egyszerűen!<br>A lépések a következők:<ol><li>Egyedi nevet kell adnia a projektnek
+"str_new_project_welcome","Új adatbázis projektet bárki alapíthat egyszerűen!<br>A lépések a következők:<ol><li>Egyedi nevet kell adnia a projektnek"
 "str_access_help","Projekt szintű hozzáférési szabályozás."
 "str_apikeys","API kulcsok"
 "str_assistant","segítő"
@@ -570,7 +570,7 @@
 "str_data_mod_acc","A projekt adatainak módosítási hozzáférése"
 "str_data_read_acc","A projekt adatainak olvasási hozzáférése"
 "str_data_srid","Adatok SRID-ja (PostGIS)"
-"str_db_cols_help","Az oszlop típusának megadása határozza meg
+"str_db_cols_help","Az oszlop típusának megadása határozza meg"
 "str_db_error_photo_id_column","Adatbázis hiba: a photo_id oszlop be van állítva rendesen?"
 "str_def_columns_names","oszlop neve (egy szó ékezetek nélkül)"
 "str_desc_desc","magyarázó leírás"
@@ -578,7 +578,7 @@
 "str_invitationsend","meghívó küldése"
 "str_invited_email","meghívott e-mail címe"
 "str_invited_name","meghívott neve"
-"str_layers_help","<h6>A rendszer működéshez szükséges definiálni:</h6><ul><li><b>Adat réteg:</b>
+"str_layers_help","<h6>A rendszer működéshez szükséges definiálni:</h6><ul><li><b>Adat réteg:</b>"
 "str_layers_searchfor_private","Megtalált rétegek a PRIVÁT mapfájlban (az eredmények a fájl szintaxisától függhetnek)"
 "str_layers_searchfor_public","Megtalált rétegek a PUBLIKUS mapfájlban (az eredmények a fájl szintaxisától függhetnek)"
 "str_load_import_help","Elmentett adat importolálások listája. A listában található adatbetöltéseket innen be lehet fejezni."
@@ -614,8 +614,8 @@
 "str_display_data","adatok ábrázolása"
 "str_deselect_all_skips","Minden kihagyás jelölés megszüntetése"
 "str_reversing_skips","Kihagyás jelölések megfordítása"
-"str_newform_help_1","Szóköz nélkül
-"str_newform_help_2","Rövid leírás
+"str_newform_help_1","Szóköz nélkül"
+"str_newform_help_2","Rövid leírás"
 "str_newform_help_3","Tetszőleges hosszú leírás."
 "str_newform_help_4","Nem publikus adatbázis kommentek."
 "str_non_obligatory_settings","nem kötelező beállítások"
@@ -682,8 +682,8 @@
 "str_data_access","Adat hozzáférés"
 "str_drop_interrupted_uploads","Valóban törölni akarja a kiválasztott megszakított feltöltést? A felhasználók kötegelve tudják maguknak törölni a sajátjaikat a profile lapon!"
 "str_export","exportálás"
-"str_yes_sure","Igen
-"str_no_no","Jaj
+"str_yes_sure","Igen"
+"str_no_no","Jaj"
 "str_session_expired_or","Lejárt a session vagy más rendszerhiba történt"
 "str_error_occured_on_uploading","Egy hiba történt a feltöltés során."
 "str_follow_this_link","Kövesse ezt a linket"
@@ -717,7 +717,7 @@
 "str_feedback","visszajelzés"
 "str_documentation","dokumentáció"
 "str_own_uploads","saját feltöltések"
-"str_null_error","Egy üres mező van
+"str_null_error","Egy üres mező van"
 "str_too_long_value_error","Túl hosszú érték van egy cellában."
 "str_datetime_range_error","Egy dátum/idő érték kívül esik az értelmes határon"
 "str_time_syntax_error","Idő formátum hiba"
@@ -753,7 +753,7 @@
 "str_order_of_results","rendezés"
 "str_message_settings_description","Válassza ki milyen típusú üzenetekről szeretne e-mailben is értesítést kapni"
 "str_opinions","Vélemények"
-"str_invalid_filename_alert","A csatolmányok neveiben csak alfanumerikus karakterek
+"str_invalid_filename_alert","A csatolmányok neveiben csak alfanumerikus karakterek"
 "str_metadata","metaadatok"
 "str_sql_tables","SQL táblák"
 "str_sql_access","SQL hozzáférés"

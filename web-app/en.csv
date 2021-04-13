@@ -15,7 +15,7 @@
 "str_administration","administration"
 "str_administrator","administrator"
 "str_agree_and_continue","agree and continue"
-"str_agree_new_terms","To continue using OpenBioMaps
+"str_agree_new_terms","To continue using OpenBioMaps"
 "str_all_match","all names belonging to the selected species"
 "str_all_names","load all names"
 "str_alt_name","alternative name"
@@ -59,10 +59,10 @@
 "str_comments","comments"
 "str_common_name","common name"
 "str_confirm","confirm"
-"str_confirmation_email_sending_failed","Sorry
+"str_confirmation_email_sending_failed","Sorry"
 "str_confirmation_email_sent","Confirmation email sent! Please check your mailbox and follow the link to remove your profile."
-"str_confirmation_no","Oh
-"str_confirmation_yes","Yes
+"str_confirmation_no","Oh"
+"str_confirmation_yes","Yes"
 "str_conf_necessary","a confirmation is required to modify it"
 "str_connectionerror","Database connection error"
 "str_connections","connections"
@@ -197,8 +197,8 @@
 "str_hungarian","Hungarian"
 "str_hun_name","Hungarian name"
 "str_identify","identify"
-"str_if_defined_xy","If defined X
-"str_iflogin","If you are signed in
+"str_if_defined_xy","If defined X"
+"str_iflogin","If you are signed in"
 "str_import","import"
 "str_import_data","import data"
 "str_inaccurate_name","inaccurate name"
@@ -215,11 +215,11 @@
 "str_inthisquerythefollowing","List of collectors"
 "str_inv_code","Invitation code"
 "str_request_invitation_help","An invitation is required to sign up. You can request an invitation from the database administrator by filling in the form bellow."
-"str_invitate","An invitation  is required to sign up. Only <a href=""?database#members"">members</a> can send invitations. The registration and the database usage are free. For further assistance
-"str_invitation_success_but_use_your_existing_account_to_login","CONGRATULATION! You have joined the %PROJECTTABLE% database! Please note
+"str_invitate","An invitation  is required to sign up. Only <a href=""?database#members"">members</a> can send invitations. The registration and the database usage are free. For further assistance"
+"str_invitation_success_but_use_your_existing_account_to_login","CONGRATULATION! You have joined the %PROJECTTABLE% database! Please note"
 "str_invites","invites"
 "str_italian","Italian"
-"str_itisalready_evaluated","it's already evaluated
+"str_itisalready_evaluated","it's already evaluated"
 "str_join","join"
 "str_disjoin","disjoin"
 "str_jump","jump"
@@ -319,7 +319,7 @@
 "str_no_results_for_the_query","No results for the query"
 "str_no_such_mail_address","No such mail address"
 "str_no_such_user","No such user or mistyped password!"
-"str_no_thanks","No
+"str_no_thanks","No"
 "str_nothing_happend","nothing happend with"
 "str_not_valid","not validated yet"
 "str_np","National Park"
@@ -349,14 +349,14 @@
 "str_paddress","address"
 "str_page","page"
 "str_password","password"
-"str_password_expired","Password expired
+"str_password_expired","Password expired"
 "str_pending","pending"
 "str_photo_id","photo id"
 "str_photos","photos"
 "str_pink","pink"
 "str_plogin","Please Log in first!"
 "str_point","point"
-"str_policy_agree_info",
+"str_policy_agree_info",""
 "str_polygon","polygon"
 "str_polygon_settings","manage custom geometries"
 "str_position","position"
@@ -425,7 +425,7 @@
 "str_savedresults","saved results"
 "str_saveit","save it"
 "str_savequeryquestion","You have an unsaved query in the session. Are you saving it now?"
-"str_save_options","Save
+"str_save_options","Save"
 "str_saveqlabel","bookmark label"
 "str_savequery","add the query to your bookmarks"
 "str_savequery_results","storing the result of the query"
@@ -477,7 +477,7 @@
 "str_speciesplus","add more species to the filter"
 "str_species_stat","species statistics"
 "str_specname","species name"
-"str_sqdesc","By clicking the links below
+"str_sqdesc","By clicking the links below"
 "str_srdesc","permanent identifiers"
 "str_state","state"
 "str_status","status"
@@ -556,7 +556,7 @@
 "str_write","write"
 "str_yellow","yellow"
 "str_yes","yes"
-"str_yes_i_want","Yes
+"str_yes_i_want","Yes"
 "str_you_have_connected_to_a_stranger_database","you have connected to a stranger database"
 "str_your_opinion","your comments and opinions"
 "str_new_project_welcome","It is easy to founding a new database project!<br> <br><br>"
@@ -570,15 +570,15 @@
 "str_data_mod_acc","This project data modifiable by"
 "str_data_read_acc","This project data accessible for"
 "str_data_srid","Data SRID (PostGIS)"
-"str_db_cols_help","Az oszlop típusának megadása határozza meg
+"str_db_cols_help","Az oszlop típusának megadása határozza meg"
 "str_db_error_photo_id_column","Database error: Has the photo_id column configured properly?"
-"str_def_columns_names","columns's name (one word
+"str_def_columns_names","columns's name (one word"
 "str_desc_desc","long description"
 "str_history_create","History auto create"
 "str_invitationsend","Send invitation"
 "str_invited_email","e-mail address of the invited person"
 "str_invited_name","name of invited person"
-"str_layers_help","<h6>Must be defined:</h6><ul><li><b>Data layer:</b>
+"str_layers_help","<h6>Must be defined:</h6><ul><li><b>Data layer:</b>"
 "str_layers_searchfor_private","Search for PRIVATE mapfile layers (result depend on the mapfile's syntax)"
 "str_layers_searchfor_public","Search for PUBLIC mapfile layers (result depend on the mapfile's syntax)"
 "str_load_import_help","List of saved data imports. Follow the links to load imports."
@@ -614,8 +614,8 @@
 "str_display_data","display data"
 "str_deselect_all_skips","Deselect all skip marks"
 "str_reversing_skips","Reverse set skip marks"
-"str_newform_help_1","Without whitespaces
-"str_newform_help_2","Sort description
+"str_newform_help_1","Without whitespaces"
+"str_newform_help_2","Sort description"
 "str_newform_help_3","Description."
 "str_newform_help_4","Nonpublic database's comments."
 "str_non_obligatory_settings","non obligatory settings"
@@ -682,8 +682,8 @@
 "str_data_access","Data access"
 "str_drop_interrupted_uploads","Really want to drop the selected interrupted upload?<br>Users can batch-delete their own interrupted imports on profile page!"
 "str_export","export"
-"str_yes_sure","Yes
-"str_no_no","Oh
+"str_yes_sure","Yes"
+"str_no_no","Oh"
 "str_session_expired_or","Session expired or other system error occured."
 "str_error_occured_on_uploading","An error occured while uploading data."
 "str_follow_this_link","Follow this link"
@@ -753,7 +753,7 @@
 "str_order_of_results","sort by"
 "str_message_settings_description","Select the information which you would like to receive via email"
 "str_opinions","Feedback"
-"str_invalid_filename_alert","The filenames of the attachments must not contain other then alphanumeric characters
+"str_invalid_filename_alert","The filenames of the attachments must not contain other then alphanumeric characters"
 "str_metadata","metadata"
 "str_sql_tables","SQL tables"
 "str_sql_access","SQL access"

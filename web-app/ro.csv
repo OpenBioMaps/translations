@@ -15,7 +15,7 @@
 "str_administration","administrație"
 "str_administrator","administrator"
 "str_agree_and_continue","acceptă și continuă"
-"str_agree_new_terms","Pentru continuarea utilizării OpenBirdMaps
+"str_agree_new_terms","Pentru continuarea utilizării OpenBirdMaps"
 "str_all_match","toate numele care aparțin speciei selectate"
 "str_all_names","încărcarea tuturor numelor"
 "str_alt_name","nume alternativ"
@@ -26,7 +26,7 @@
 "str_append","atașează"
 "str_apply_text_query","filtrare recursivă"
 "str_arbitrary","arbitrar"
-"str_array",
+"str_array",""
 "str_as_compact_table","tabel compact"
 "str_as_foldable_list","listă expansibilă"
 "str_as_full_table","tabel complet"
@@ -59,14 +59,14 @@
 "str_comments","mențiuni"
 "str_common_name","denumire populară"
 "str_confirm","confirmă"
-"str_confirmation_email_sending_failed","Ne pare rău
+"str_confirmation_email_sending_failed","Ne pare rău"
 "str_confirmation_email_sent","Mailul de confirmare a fost trimis! Vă rugăm verificați adresa Dumneavoastră de e-mail și accesați linkul din e-mailul primit pentru a finaliza ștergerea contului de utilizator."
 "str_confirmation_no","Nu!"
-"str_confirmation_yes","Da
+"str_confirmation_yes","Da"
 "str_conf_necessary","confirmare necesară"
 "str_connectionerror","conectarea la baza de date a eșuat"
 "str_connections","conexiuni"
-"str_constant_name",
+"str_constant_name",""
 "str_constraints","restricții"
 "str_contact","contact"
 "str_contains","conține"
@@ -110,7 +110,7 @@
 "str_decline","respinge"
 "str_decrease_text_size","micșorează caracterele"
 "str_default_lang","limba prestabilită"
-"str_default_value",
+"str_default_value",""
 "str_default_values","valori predefinite"
 "str_definition","definiție"
 "str_definitions","definiții"
@@ -124,7 +124,7 @@
 "str_dinpi","Directoratul Parcului Național Duna-Ipoly"
 "str_discl","avertisment legal (disclaimer)"
 "str_disjoint","nu conține"
-"str_dist_explan","valoare distanță string
+"str_dist_explan","valoare distanță string"
 "str_dnlike","nu îmi place!"
 "str_domain","domain"
 "str_done","rezolvat"
@@ -197,7 +197,7 @@
 "str_hungarian","maghiară"
 "str_hun_name","denumire maghiară"
 "str_identify","identifică"
-"str_if_defined_xy","dacă sunt definite coordonatele X
+"str_if_defined_xy","dacă sunt definite coordonatele X"
 "str_iflogin","Din cauza manipulării datelor sensibile detaliile pot fi accesate doar după autentificare. <br> Puteți salva căutarea avansată și descărca rezultatele numai după înregistrare."
 "str_import","importă"
 "str_import_data","încărcare date"
@@ -216,7 +216,7 @@
 "str_inv_code","cod invitație"
 "str_request_invitation_help","Înregistrarea se face pe bază de invitație. Poți solicita invitația administratorului bazei de date completând formularul de mai jos."
 "str_invitate","Înregistrarea la baza de date se face pe bază de invitație. Invitație poate fi trimisă de oricare <a href=""?database#members"">membru</a> a bazei de date. Înregistrarea și folosirea bazei de date este gratuită. Pentru asistență vă rugăm contactați <a href=""?database#maintainers"">administratorii</a>."
-"str_invitation_success_but_use_your_existing_account_to_login","FELICITĂRI! V-ați alăturat cu succes bazei de date %PROJECTTABLE%! Vă reamintim că deja ați folosit această adresă de e-mail ca nume de utilizator într-o altă bază de date OpenBioMaps de pe acest server. Folosiți aceeași parolă și adresă e-mail ca nume de utilizator pentru a vă conecta în această bază de date. Dacă ați uitat parola
+"str_invitation_success_but_use_your_existing_account_to_login","FELICITĂRI! V-ați alăturat cu succes bazei de date %PROJECTTABLE%! Vă reamintim că deja ați folosit această adresă de e-mail ca nume de utilizator într-o altă bază de date OpenBioMaps de pe acest server. Folosiți aceeași parolă și adresă e-mail ca nume de utilizator pentru a vă conecta în această bază de date. Dacă ați uitat parola"
 "str_invites","invitații"
 "str_italian","italiană"
 "str_itisalready_evaluated","deja evaluat"
@@ -267,7 +267,7 @@
 "str_map_access","acces hartă"
 "str_map_definitions","definiții hartă"
 "str_map_inf","informații hartă"
-"str_map_usage","Pe hartă sunt vizibile punctele de observație colorate în verde. Unor puncte pot fi atribuite mai multe specii observate. Accesând un punct
+"str_map_usage","Pe hartă sunt vizibile punctele de observație colorate în verde. Unor puncte pot fi atribuite mai multe specii observate. Accesând un punct"
 "str_max","maxim"
 "str_mean","medie"
 "str_members","membrii"
@@ -288,7 +288,7 @@
 "str_modifyit","modifică"
 "str_module_include_error","module care includ erori"
 "str_modules","module"
-"str_moreinfo_wms","pentru informații suplimentare referitoare la protocoalele WMS/WFS
+"str_moreinfo_wms","pentru informații suplimentare referitoare la protocoalele WMS/WFS"
 "str_morenews","toate știrile"
 "str_more_options","mai multe opțiuni"
 "str_more_uploadform_options","Alege dintre opțiunile de încărcare date"
@@ -318,7 +318,7 @@
 "str_no_results_for_the_query","Interogarea nu are rezultat"
 "str_no_such_mail_address","Adresa de email nu există"
 "str_no_such_user","Nu există utilizatorul sau parola a fost scrisă greșit!"
-"str_no_thanks","No
+"str_no_thanks","No"
 "str_nothing_happend","nu s-a întâmplat nimic"
 "str_not_valid","nevalidat"
 "str_np","parc național"
@@ -348,21 +348,21 @@
 "str_paddress","adresă"
 "str_page","pagină"
 "str_password","parolă"
-"str_password_expired","Parolă expirată
+"str_password_expired","Parolă expirată"
 "str_pending","în așteptare"
 "str_photo_id","identificator fotografie"
 "str_photos","fotografii"
 "str_pink","roz"
 "str_plogin","Vă rugăm să vă conectați prima dată!"
 "str_point","punct"
-"str_policy_agree_info","În vederea îmbunătățirii transparenței și operarea mai corectă a datelor cu caracter personal
+"str_policy_agree_info","În vederea îmbunătățirii transparenței și operarea mai corectă a datelor cu caracter personal"
 "str_polygon","poligon"
 "str_polygon_settings","manipulare geometrii preîncărcate"
 "str_position","poziție"
 "str_preparation_of_results","Pregătirea rezultatelor"
 "str_privacy_policy","politica de confidențialitate"
 "str_private","privat"
-"str_private_policy_info","Politica de confidențialitate
+"str_private_policy_info","Politica de confidențialitate"
 "str_processing_query","Procesarea interogării"
 "str_profile","profil"
 "str_proj_comment","comentarii proiect"
@@ -424,7 +424,7 @@
 "str_savedresults","rezultate salvate"
 "str_saveit","salvează"
 "str_savequeryquestion","Aveți o căutare avansată nesalvată. Salvați acum?"
-"str_save_options","Salvați
+"str_save_options","Salvați"
 "str_saveqlabel","eticheta de marcaj"
 "str_savequery","adăugați interogarea la marcajele dvs."
 "str_savequery_results","stocarea rezultatului interogării"
@@ -558,7 +558,7 @@
 "str_yes_i_want","Da vreau"
 "str_you_have_connected_to_a_stranger_database","ai accesat o bază de date străină"
 "str_your_opinion","comentariile și opiniile dvs."
-"str_new_project_welcome","Puteți înființa o bază de date nouă simplu!<br> Înființarea unui proiect nou constă din definirea bazei de date și înființarea unui grup de lucru.<br> Pentru crearea bazei de date completați formularul de mai jos. Baza de date trebuie să primească o denumire unică
+"str_new_project_welcome","Puteți înființa o bază de date nouă simplu!<br> Înființarea unui proiect nou constă din definirea bazei de date și înființarea unui grup de lucru.<br> Pentru crearea bazei de date completați formularul de mai jos. Baza de date trebuie să primească o denumire unică"
 "str_access_help","Drepturi de accesibilitate pe nivel de proiect."
 "str_apikeys","Chei API"
 "str_assistant","asistent"
@@ -569,15 +569,15 @@
 "str_data_mod_acc","Datele proiectului pot fi modificate de"
 "str_data_read_acc","Datele proiectului sunt accesibile pentru"
 "str_data_srid","Data SRID (PostGIS)"
-"str_db_cols_help","Setarea tipului coloanei va defini modul în care OpenBioMaps va folosi coloana respectivă.  Tipul 'common data' poate fi orice coloană
+"str_db_cols_help","Setarea tipului coloanei va defini modul în care OpenBioMaps va folosi coloana respectivă.  Tipul 'common data' poate fi orice coloană"
 "str_db_error_photo_id_column","Eroare bază de date: Coloana photo_id a fost configurat corect?"
-"str_def_columns_names","denumire coloană (un singur cuvânt
+"str_def_columns_names","denumire coloană (un singur cuvânt"
 "str_desc_desc","descriere lungă"
 "str_history_create","Istorie auto create"
 "str_invitationsend","trimite invitație"
 "str_invited_email","adresa de e-mail invitat"
 "str_invited_name","nume invitat"
-"str_layers_help","<h6>Must be defined:</h6><ul><li><b>Data layer:</b>
+"str_layers_help","<h6>Must be defined:</h6><ul><li><b>Data layer:</b>"
 "str_layers_searchfor_private","Search for PRIVATE mapfile layers (result depend on the mapfile's syntax)"
 "str_layers_searchfor_public","Search for PUBLIC mapfile layers (result depend on the mapfile's syntax)"
 "str_load_import_help","Lista încărcărilor de date salvate. De aici pot fi continuate sau șterse încărcările de date salvate"
@@ -613,7 +613,7 @@
 "str_display_data","display data"
 "str_deselect_all_skips","Deselect all skip marks"
 "str_reversing_skips","Reverse set skip marks"
-"str_newform_help_1","fără spații
+"str_newform_help_1","fără spații"
 "str_newform_help_2","scurtă descriere"
 "str_newform_help_3","descriere"
 "str_newform_help_4","comentarii bază de date cu acces restricționat"
@@ -682,7 +682,7 @@
 "str_drop_interrupted_uploads","Really want to drop the selected interrupted upload?<br>Users can batch-delete their own interrupted imports on profile page!"
 "str_export","export"
 "str_yes_sure","Da sunt sigur!"
-"str_no_no","Oh
+"str_no_no","Oh"
 "str_session_expired_or","Session expired or other system error occured."
 "str_error_occured_on_uploading","A apărut o eroare la încărcarea datelor."
 "str_follow_this_link","Follow this link"
@@ -752,7 +752,7 @@
 "str_order_of_results","ordonează după"
 "str_message_settings_description","Alege informațiile care dorești să-ți fie transmise și prin email"
 "str_opinions","Feedback"
-"str_invalid_filename_alert","Denumirile fișierelor atașate nu poate să conțină decât caractere alfanumerice și/sau următoarele simboluri: (_)
+"str_invalid_filename_alert","Denumirile fișierelor atașate nu poate să conțină decât caractere alfanumerice și/sau următoarele simboluri: (_)"
 "str_metadata","metadate"
 "str_sql_tables","SQL tables"
 "str_sql_access","SQL access"
