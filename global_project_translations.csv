@@ -1055,12 +1055,6 @@
 "global","en","str_other_pubs","Other publications",
 "global","hu","str_other_pubs","Egyéb publikációk",
 "global","ro","str_other_pubs","alte publicații",
-"global","en","str_own","own","interface.php,profile.php"
-"global","hu","str_own","saját","interface.php,profile.php"
-"global","ro","str_own","propriu","interface.php,profile.php"
-"global","en","str_own_polygons","own geometries","interface.php,profile.php"
-"global","hu","str_own_polygons","saját geometriák","interface.php,profile.php"
-"global","ro","str_own_polygons","geometrii proprii","interface.php,profile.php"
 "global","en","str_paddress","address","profile.php,project_admin.php"
 "global","hu","str_paddress","cím","profile.php,project_admin.php"
 "global","ro","str_paddress","adresă","profile.php,project_admin.php"
