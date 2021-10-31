@@ -2325,3 +2325,6 @@
 "global","hu","str_summary_evaluation_score","Összefoglaló adat értékelés","data-sheet-page.php"
 "global","en","str_summary_evaluation_score","Summary data evaluation","data-sheet-page.php"
 "global","ro","str_summary_evaluation_score","Summary data evaluation","data-sheet-page.php"
+"global","hu","str_repozitorium_connections","Repozitórium kapcsolatok","profile.php"
+"global","en","str_repozitorium_connections","Repository connections","profile.php"
+"global","ro","str_repozitorium_connections","Repository connections","profile.php"
