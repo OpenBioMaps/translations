@@ -3,8 +3,11 @@ change_email_address
 create_new_project
 data_evaluation_commenters
 data_evaluation_owner
+data_export_ready
 dlr_new_request
 dlr_request_registered
+dlr_request_approved
+dlr_request_rejected
 dropmyaccount
 footer
 incomplete_list_processed
